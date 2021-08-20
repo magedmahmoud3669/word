@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>الدرس العشرون: دائرة المؤتلف</para>
+  <para>h-10-20-v-1</para>
+  <para/>
+  <para>Aدائرةُ المؤْتلَفِ</para>
+  <para>Aسببُ التَّسميةِ:</para>
+  <para> سُمِّيتْ بذلك؛ لائتلافِ أجزائِها؛ فأجزاؤها سُبَاعيَّةٌ.</para>
+  <para>Aخصائصُها:</para>
+  <para>1- بحورُها مسدَّسَةُ الأجزاءِ، ثلاثةٌ في كلِّ شَطْرٍ.</para>
+  <para>2- أجزاؤها سُباعيَّةٌ، ومِن ثَمَّ فعدَّةُ حركاتها وسواكنِها إحدى وعشرونَ حركةً وسكونًا في كلِّ شًطْرٍ.</para>
+  <para>3- مبنيَّةٌ على بحرِ الوافر، فهوَ الأصلُ المقدَّمُ فيها؛ لابتدائِهِ بوتدٍ.</para>
+  <para/>
+  <para>Aأبحرُها:</para>
+  <para>يتولَّدُ مِن هذِهِ الدّائرةِ ثلاثةُ أبحرٍ، اثنانِ مستعملانِ، والثّالثُ مهمَلٌ. وأبحرُها هيَ:</para>
+  <para>1- الوافر.           2- الكامل.                3- المتوفر (مهمل).</para>
+  <para>1- بحر الوافر: وميزانُهُ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>مُفَاعَلَتُن مُفَاعَلَتُن مُفَاعَلَتُن</para></entry><entry><para/></entry><entry><para>مُفَاعَلَتُن مُفَاعَلَتُن مُفَاعَلَتُن</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>2- بحر الكامل: وميزانه:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>مُتَفَاعِلُن مُتَفَاعِلُن مُتَفَاعِلُن</para></entry><entry><para/></entry><entry><para>مُتَفَاعِلُن مُتَفَاعِلُن مُتَفَاعِلُن</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>3- بحر المتوفر (مهمل): وهو محرَّف الرَّمَل، وميزانُهُ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>فَاعِلاتُكَ   فَاعِلاتُك   فاعِلاتُك</para></entry><entry><para/></entry><entry><para>فَاعِلاتُكَ  فَاعِلاتُك  فاعِلاتُك</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para> بَـيَّـنْتُ -سابقاً - في دائرةِ المختلَف ِكيفيَّة فَكِّ كلِّ بحرٍ مِن الآخرِ، ومِن ثَمَّ سأشيرُ هنا إلى إجراءاتِ فَكِّ أبحُرِ الدّائرةِ مِن أصلِها:</para>
+  <para>1- نبدأُ بوتدِ "مُفَاعَلَتُن" المقابل للرقم "1" فيتولَّدُ "الوافرُ" وهوَ أصلُ الدّائرةِ كما ذَكَرْتُ.</para>
+  <para>2- نبدأُ بالسَّببِ الثَّقيلِ الذي يليهِ المقابِلُ للرَّقمِ "4" فيتولَّدُ "الكاملُ"، "عَلَتُن مُفَا- عَلَتُنْ مُفَا – عَلَتُن مُفَا" تُحوَّل إلى "مُتَفَاعِلُن مُتَفَاعِلُن مُتَفَاعِلُن ".</para>
+  <para>3- نبدأ بالسَّببِ الخفيفِ في "مُفَاعَلَتُن" المقابلِ للرَّقمِ "6" فيتولَّدُ "المتوفِّرُ" "تُن مُفَاعَلَ" "تُنْ مُفَاعَلَ" "تُنْ مُفَاعَلَ"، فتحوَّل إلى "فَاعِلاتُك فَاعِلاتُك  فَاعِلاتُك " وهو مُهمَل.</para>
+  <para/>
+  <para>Aنظمُ دائرةِ المؤتلَفِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وبَعدَها الدَّائِرَةُ المؤتَلَفَهْ</para></entry><entry><para/></entry><entry><para>أجْزاؤهَا مِنْ وَافِرٍ مُؤَلَّفَهْ</para></entry></row><row><entry><para>فَهْيَ علَى عِشرين بَعْدَ وَاحِدِ</para></entry><entry><para/></entry><entry><para>منَ الحُرُوف مَا بِهَا مِن زَائدِ</para></entry></row><row><entry><para>ينفَكُّ منهَا وافِرٌ وكَامِلُ</para></entry><entry><para/></entry><entry><para>وثَالثٌ قَد حَارَ فِيه الجَاهِلُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para/>
+  <para>h-10-20-p-01</para>
+  <para>h-10-20-p-02</para>
+  <para/>
+</article>

@@ -1,0 +1,13 @@
+   $xmll=simplexml_load_file('maged.xml');
+       $result = $xmll->xpath('//*');
+       foreach($result as $res){
+         // print_r($r);
+         if(str_starts_with($res, 'الدرس')){
+                       $count=$count+1;
+                     //  echo $res;
+         }
+         else{
+           echo $res."<br/>";
+         }
+       
+       }

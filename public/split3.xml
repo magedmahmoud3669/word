@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>الدرس التاسع والثلاثون: أسماء القافية وعيوب القافية</para>
+  <para>h-10-39-v-1</para>
+  <para/>
+  <para>Aأسماءُ القافيةِ:</para>
+  <para>1- قافيةُ المتكاوِسِ: وهيَ كلُّ قافيةٍ توالى بينَ ساكنَيها أربعُ حركاتٍ، وسُميِّتْ بالمتكاوسِ؛ لكثرةِ الحركاتِ وتراكُمِها، وأخذُوهَا مِن قولهم: تكاوَسَتِ الإبلُ، وهوَ اجتماعُها وازدحامُها، وهذا النَّوعُ نادرٌ في الشِّعر، مثالُها قولُ الشّاعرِ (مشطور الرّجز):</para>
+  <informaltable frame="all">
+    <tgroup cols="1"><tbody><row><entry><para>قَدْ جَبَر الدِّينَ الإلهُ فَـجَبرْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ هيَ: "لاه فَجَبَرْ" (/5////5).</para>
+  <para>ومِنها قولُ "أبي العتاهيةِ" (مشطورُ الرّجز): </para>
+  <informaltable frame="all">
+    <tgroup cols="1"><tbody><row><entry><para>ومَنْ إذا ريبُ الـزَّمانِ صَدعَكْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ هيَ: "مَانِ صَدَعك" (/5////5).</para>
+  <para>2- قافيةُ المتراكبِ: وهيَ كلُّ قافيةٍ اجتمَعَ بينَ ساكنَيها ثلاثُ حركاتٍ، وسمِّيَتْ بذلكَ لتوالي حركاتِها، فكأنَّما رَكِبَ بعضُها بعضًا، ومثالُها قولُ الشّاعرِ (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وَمَا نَزَلْتُ مِنَ المكْرُوهِ مَنْزِلَةً</para></entry><entry><para/></entry><entry><para>إلا وَثِقْتُ بأَنَّ ألْقَي لَـهَا فَرَجَا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ هُنا: "هَا فَرَجَا" (/5///5). </para>
+  <para>3- قافيةُ المتدارَكِ: وهيَ كلُّ قافيةٍ توالى بينَ ساكِنَيها متحرِّكانِ، وسُميِّتْ بذلكَ؛ لإدراكِ المتحرِّكِ الثّاني المتحرِّكَ الأوَّلَ، مثالُها قولُ "الشّافعيِّ"(الطويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>تَعَاظَمَنِى ذَنْبِي فلَمَّا قَرَنْتُهْ</para></entry><entry><para/></entry><entry><para>بعفْوِكَ رَبِّي كَانَ عَفْوُكَ أعظَمَا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ هُنا: "أعْظَمَا" (/5//5)، فقدْ وَقَعَ بينَ السّاكنينِ مُتحرِّكانِ.</para>
+  <para>4- قافيةُ المتواترِ: وهيَ كلُّ قافيةٍ وقَعَ بينَ ساكنَيها متحرِّكٌ واحدٌ، والتَّسميةُ مأخوذةٌ مِن الوِتْرِ، وهوَ الفَرْدُ، مثالُها قولُ الشّاعرِ (الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>تَعَمَّدْنِي بنُصْحِكَ في انْفِرادِي</para></entry><entry><para/></entry><entry><para>وجَنِّبْنِي النَّصِيحَةَ في الجَـمَاعَهْ</para></entry></row><row><entry><para>فإنَّ النُّصْحَ بَينَ النَّاسِ نَوعٌ</para></entry><entry><para/></entry><entry><para>مِنَ التَّوْبِيخِ لا أرْضَى اسْتِـمَاعَهْ</para></entry></row><row><entry><para>وإن خَالَفْتَنِي وعَصَيتَ قَوْلِي</para></entry><entry><para/></entry><entry><para>فَلا تَجْزَعْ إذَا لَم تُعْطَ طَاعَهْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ في البيتِ الأوَّلِ والثّاني "ماعَهْ /5/5"، وفي البيتِ الثّالثِ "طاعة /5/5"، فقدَ وَقَعَ بينَ السّاكنينِ متحرِّكٌ واحدٌ.</para>
+  <para>5- قافيةُ المترادِفِ: وهيَ كلُّ قافيةٍ توالى ساكناها، أيْ: لم يقعْ بينَ ساكِنَيها حركةٌ، وهوَ خاصٌّ بالقوافي المقيَّدةِ، وسُمِّيَتْ بالمترادِفِ؛ لترادُفِ ساكنَيْها، أيْ: اتِّصالهما وتتابعهما، ومثالُها قولُ الشّاعرِ (السّريع):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>يَا عَينُ قَد نِمْتِ فَاسْتَيْقِظِي</para></entry><entry><para/></entry><entry><para>مَا اجْتَمَعَ الخَوفُ وطِيبُ الـمــنَامْ</para></entry></row><row><entry><para>لابُدَّ مِن مَوتٍ بدارِ البلَى</para></entry><entry><para/></entry><entry><para>والله بَعدَ الموتِ يُحْيِي العِــظَامْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ في البيتِ الأوَّلِ قولُهُ: "نامْ /55"، وفي البيتِ الثّاني قولُهُ: "ظامْ /55".</para>
+  <para>Aنظْمُ أسماءِ القافيةِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>بالمتَكَاوِسِ اُدَعُ كُلَّ قَافِيَهْ</para></entry><entry><para/></entry><entry><para>في سَاكِنَيِها أرْبَعٌ مُتَوَالِيَهْ</para></entry></row><row><entry><para>وإنْ يكُن فِيهَا ثَلاثٌ سَمِّهَا</para></entry><entry><para/></entry><entry><para>بالمتَرَاكِبِ بشَرْطِ ضَمِّهَا</para></entry></row><row><entry><para>وسَمِّها إنْ كَانَ فِيهَا اثْنَانْ</para></entry><entry><para/></entry><entry><para>مُتَدارِكا- لازِلتَ- في أمَانْ</para></entry></row><row><entry><para>وإنْ رَأيتَ السَّاكِنِينَ افْتَرقَا</para></entry><entry><para/></entry><entry><para>فالمتَوَاتِرُ لَهَا اسْمٌ يُنتَقَى</para></entry></row><row><entry><para>وإنْ رَأَيتَ السَّاكِنَيْنَ اجْتَمَعا</para></entry><entry><para/></entry><entry><para>بالمتَرَادِف ادْعُهُا واسْتَمِعا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>[يقسم الدرس من هنا لاخر العيوب فيصبح درسين]</para>
+  <para>Aعيوبُ القافيةِ:</para>
+  <para>1- الإكفاءُ: وهوَ اخْتلافُ الرَّوِيِّ بحروفٍ متقاربةٍ في المخرجِ، واشْتقُّوهُ مِن قولهِمْ: "أكفأتُ الإناءَ"، أي: قلبتُهُ؛ لأنَّ الشّاعرَ قَلبَ الرَّويَّ عَن وِجْهتِهِ الأولى.</para>
+  <para>ومثالُ الإكفاءِ "شارخٌ، وشارحٌ"، و"قارسٌ، وقارصٌ"، فالحاءُ، والخاءُ متقاربانِ في المخرجِ، وكذا السينُ، والصّادُ، ومِن أمثلةِ الإكفاءِ قولُ الشّاعرِ (مشطور الرّجز):</para>
+  <informaltable frame="all">
+    <tgroup cols="1"><tbody><row><entry><para>إذا نَزلْــتُ فاجْعلاني وَسَـطا</para></entry></row><row><entry><para>إنِّي كبيرٌ لا أُطيقُ الـعَنَدا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فرَوِيُّ البيتِ الأوَّلِ "الطَّاءُ"، ورَوِيُّ البيتِ الثّاني "الدّالُ"، وهُما حرفانِ مِن مخرجٍ واحدٍ، وهو طرفُ الِّلسانِ، وأصولِ الثَّنايا.</para>
+  <para>2- الإجَازةُ: هي اختلافُ الرَّويِّ بحروفٍ متباعدةٍ في المخرجِ، وسُمِّيتْ إجازةً مِن إجَازةِ الـحبلِ، وهيَ المخالفةُ بينَ قِواهُ، بأنْ يـُجعلَ إحداهُنَّ قويَّةً والأُخرى ضعيفةً، أو جَوازِ المكانِ؛ لأنَّ الشّاعرَ تجاوزَ حرفَ الرَّويِّ، أو مِن التَّجوُّزِ، وهوَ التَّساهلُ، وسمَّاها بعضُهم الإعطاءَ؛ لأنَّ الشّاعرَ أعطى الرَّويَّ ما لا يستَحقُّه مِن الحروفِ، ومِن أمثلةِ الإجازةِ اللامُ والميمُ في "قليلٍ، وذميمٍ" في قولِ الشّاعرِ(الطويل): </para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ألا قَدْ أرَى إنْ لم تَكُن أمُّ مَالكٍ</para></entry><entry><para/></entry><entry><para>بِمِلكِ يَدِي أنَّ البَقَاءَ قَلِيلُ</para></entry></row><row><entry><para>رأَى مِن رَفيقيهِ جَفَاءً وبيعَةً</para></entry><entry><para/></entry><entry><para>إذَا قَامَ يبَتَاعُ القِلاصَ ذَمِيمُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>مثالٌ آخرُ للإجازةِ قولُ الشّاعرِ (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>خليليَّ سِيرا واتْركا الرَّحْلَ إنَّني</para></entry><entry><para/></entry><entry><para>بِمَهْلَكةٍ والعاقباتُ تَدورُ</para></entry></row><row><entry><para>فَبينَاهُ يُشْري رَحْلَهُ قالَ قائلٌ:</para><para/></entry><entry><para/></entry><entry><para>لِمَنْ جملٌ رِخْوُ الملاطِ نجيبُ؟</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فرويُ البيتِ الأوَّلِ "الرّاءُ"، ورويُ البيتِ الثّاني "الباءُ"، والحرفانِ مختلفانِ، ومتباعدانِ في المخرجِ.</para>
+  <para>ومِن طريفِ الإجازَةِ ما رواهُ العَنْبيُّ، قال: "قالَ أبي: وأنشدني أبو وائلٍ (مخلَّعِ البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ما أوجَعَ البَينَ مِن غريبٍ</para></entry><entry><para/></entry><entry><para>فكيفَ إنْ كانَ مِن حبيبِ؟!</para></entry></row><row><entry><para>يكادُ مِن شوقِهِ فُؤادي</para></entry><entry><para/></entry><entry><para>إذا تذكَّرتُهُ يَموتُ</para><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقالَ له أبي: إنَّ هذا باءٌ، وهذا تاءٌ، قالَ: لا تَنقُطْ أنتَ شيئاً، قلتُ: يا هذا، إنَّ البيتَ مخفوضٌ، وهذا مرفوعٌ، قالَ: أنا أقولُ: لا تنقُطْ، وهو يُشكِّلُ. </para>
+  <para>Aنَظْمُ الإكفَاءِ والإجازةِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وعِيْبَ فِي الرَّويِّ أنْ يَأتيَ في</para></entry><entry><para/></entry><entry><para>قَافِيَةٍ مُخْتَلِفَاً بالأحْرُفِ</para></entry></row><row><entry><para>وهْوَ إذَا تَقَارَبْتْ في الـمَخْرَجِ</para></entry><entry><para/></entry><entry><para>يُعَدَّ إكْفَاءً قَبِيحَ المنْهَجِ</para></entry></row><row><entry><para>وغيرُه يَدْعُونَه إجَازَهْ</para></entry><entry><para/></entry><entry><para>ولا يُرَى في النَّاسِ مَنْ أجَازَهْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>3- الإقواءُ: وهوَ اختلافُ حركةِ الرَّويِّ (الـمَجرى) بينَ الضمِّ والكسرِ في القصيدةِ الواحدةِ، وهذهِ التَّسميةُ أُخِذتْ مِن قولِ العربِ: "أقْوَتِ الدَّارُ"، إذا خَلتْ، وسُمِّيَت القافيةُ مُقْوَاة؛ لخلُوِّها مِن الحركةِ التي بُنيتْ عليها، ومنهُ قولُ النّابغةِ الذبيانيِّ (الكامل):  </para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>زَعَمَ البَوارِحُ أنَّ رِحْلَتَنا غَدًا</para></entry><entry><para/></entry><entry><para>وبِذَاك خَبَّرَنَا الغُرابُ الأسْوَدُ</para></entry></row><row><entry><para>لا مَرْحبًا بغَدٍ ولا أهْلاً بِهِ</para></entry><entry><para/></entry><entry><para>إنْ كَانَ تَفْرِيقُ الأحِبَّة في غَدِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>حيثُ جاءَ بالرَّوِيِّ مضمومًا في البيتِ الأولِ، ومكسورًا في الثّاني.</para>
+  <para>ومنهُ أيضاً قولُ النَّابغةِ الذبياني مِن القصيدةِ نفسِها:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>سقَطَ النَّصيفُ ولمْ تُرِدْ إسْقاطَهُ</para></entry><entry><para/></entry><entry><para>فتَناولتْهُ واتَّقتْنا باليدِ</para></entry></row><row><entry><para>بِمخَضَّبٍ رَخْصٍ كأنَّ بَنانَهُ</para></entry><entry><para/></entry><entry><para>عنَمٌ يكادُ مِن اللَّطافةِ تُعْقَدُ</para><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>ومنهُ قولُ "حسَّانَ بنِ ثابتٍ"  (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>لا بأسَ بالقومِ مِن طولٍ ومِن قِصرٍ</para></entry><entry><para/></entry><entry><para>جسمُ البغالِ وأحلامُ العصافيرِ</para></entry></row><row><entry><para>كأنَّهم خُشُبٌ جُوفٌ أسافِلُهُ</para></entry><entry><para/></entry><entry><para>مثقَّبٌ نُفِخَتْ فيهِ الأعاصيرُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدْ جاءَ بالرَّويُّ مضمومًا في البيتِ الثاني ومكسورًا في البيتِ الأوَّلِ.</para>
+  <para>ومِنهُ قولُ الشّاعر(الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>تَغَيَّرَتِ البِلادُ ومَنْ عَلَيْهَا</para></entry><entry><para/></entry><entry><para>فَوَجْهُ الأرْضِ مُغْبَرٌ قَبِيحُ</para></entry></row><row><entry><para>تَغَيَّر كُلُّ لَونٍ وطَعْمٍ</para></entry><entry><para/></entry><entry><para>وقَلَّ بشَاشةُ الوَجْهِ الصَّبِيحِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقد جاء بالرَّوي مضمومًا في البيتِ الأوَّلِ ومكسورًا في الثّاني.</para>
+  <para>4- الإصرافُ: هوَ اختلافُ حركةِ الرَّويِّ "المجرى" بالفتحِ معَ الضَّمِّ أو الكسْرِ، وقدْ أُخِذَ مِن قولهم: "صرفتُ الشَّيءَ، أيْ: أبعدتُهُ عن طريقهِ، كأنَّ الشّاعرَ صَرَفَ الرَّوِيَّ عن طريقهِ الذي كانَ يستحقُّهُ مِن مُمَاثَلَةِ حَرَكَتِه لَحَركةِ الرَّويِّ الأوّلِ، ومثالُهُ قولُ الشّاعرِ (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>لا تَنْكِحَنَّ عَجُوزًا أو مُطَلَّقَةً</para></entry><entry><para/></entry><entry><para>وَلا يَسُوقَنَّها في حَبْلِكَ القدَرُ</para></entry></row><row><entry><para>فإن أتَوْكَ وَقَالُوا: إنَّهَا نَصَفٌ</para></entry><entry><para/></entry><entry><para>فَإنَّ أطْيَبَ نِصْفَيْها الذي غَبَرا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدْ اختلفتْ حركةُ الرَّويِّ بينَ الفتحةِ والضَّمَّةِ في البيتينِ.</para>
+  <para>مثالٌ آخرُ (الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>أرَيتَكَ إنْ مَنَعْتَ كَلامَ يَحْيَى</para></entry><entry><para/></entry><entry><para>أتَمْنَعُنِي علَى يَحْيَى البُكَاءَ؟!</para></entry></row><row><entry><para>ففِي طَرْفِي عَلَى يَحْيَى بُكَاءٌ</para></entry><entry><para/></entry><entry><para>وفي قَلْبِي عَلَى يَحْيَى البَلاءُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدِ اختلفتْ حركةُ الرَّويِّ في البيتينِ، فجاءتْ مفتوحةً في الأوَّلِ، ومضمومةً في الثّاني.</para>
+  <para>ومثالُ اختلافِ حركةِ الرَّوِيِّ بينَ الفتحةِ والكسرةِ قولُ الشّاعرِ (الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ألَمْ تَرَنِي رَدَدْتُ عَلَى ابنِ لَيلَى</para></entry><entry><para/></entry><entry><para>مَنَيحَتَهُ فعَجَّلْتُ الأدَاءَ</para></entry></row><row><entry><para>وقلتُ لشَاتِه لَمّا أتَتْنَا</para></entry><entry><para/></entry><entry><para>رَمَاكِ الله مِن شَاةٍ بدَاءِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>Aنظْمُ الإقواءِ والإصرافِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وَحَدُّ الاقْوَاءِ اخْتِلافُ المجرى </para></entry><entry><para/></entry><entry><para>بالكَسْرِ والضَّمِّ وُقِيتَ الشَّرَا</para></entry></row><row><entry><para>أمَّا إذَا مَا كَانَ الاخْتِلافُ</para></entry><entry><para/></entry><entry><para>بالفَتْحِ مَعْ سِوَاهُ فالإصْرافُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>5- الإيطاءُ: هوَ تكرارُ كلمةِ الرَّويِّ بلفظِها ومعناها مِن غيرِ فاصلٍ، وأقلُّهُ سبعةُ أبياتٍ، وكلَّما قلَّ الفاصلُ زادَ الإيطاءُ قُبحًا، وهوَ مأخوذٌ مِن المواطاةِ التي تعني الموافقةَ، ومثالُهُ قولُ الشّاعرِ (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>أَأزْعُم أنِّي هَائِمٌ ذُو صَبَابَةٍ</para></entry><entry><para/></entry><entry><para>بلَيلَي ولا أَبْكِي وتَبْكِي الحَمائِمُ</para></entry></row><row><entry><para>كَذَبتُ- وبَيتِ الله- لَو كُنْتُ عَاشِقًا</para></entry><entry><para/></entry><entry><para>لَمَا سَبَقَتْنِي بالبُكَاءِ الحَمَائِمُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>مثالٌ آخرٌ (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>لا دَارَ للْمَرءِ بَعدَ الموْتَ يَسْكُنُها</para></entry><entry><para/></entry><entry><para>إلاَّ التي كَانَ قَبلَ الموتِ بانيها</para></entry></row><row><entry><para>فإنْ بَنَاهَا بِخَيرٍ طَابَ مَسْكَنُهُ</para></entry><entry><para/></entry><entry><para>وإنْ بَنَاهَا بَشِّرٍ خَابَ بَانِيهَا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>مثالٌ آخرٌ (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ولما تَبَدَّت للرَّحِيلِ جِمَالُنَا</para></entry><entry><para/></entry><entry><para>وجَدَّ بِنَا سَيرٌ وفَاضَت مَدَامِعُ</para></entry></row><row><entry><para>تَبَدَّتْ لَنَا مَذْعُورَةً مِنْ خِبائِهَا</para></entry><entry><para/></entry><entry><para>ونَاظِرُها بالُلؤْلؤِ الرَّطْبِ دَامِعُ</para></entry></row><row><entry><para>أشَارَت بأطْرَافُ البَنَانِ وودَّعَتْ</para></entry><entry><para/></entry><entry><para>وأوْمَت بعَيْنَيْهَا مَتَى أنْتَ رَاجِعُ؟</para></entry></row><row><entry><para>فقُلْتَ لَهَا: واللهِ مَا مِن مُسَافرٍ</para></entry><entry><para/></entry><entry><para>يسِيرُ ويَدْرِي َماَ الله بِهِ صَانعُ</para></entry></row><row><entry><para>فشَالَت نِقَابَ الـحُـسْنِ مِن فَوقِ وَجْهِــــــهَا</para></entry><entry><para/></entry><entry><para>فَسَالتْ من الطَّرْفِ الكَحِيْلِ مَدَامعُ</para></entry></row><row><entry><para>وقالتْ: إلِهي كُنْ عَلَيهِ خَليفةً</para></entry><entry><para/></entry><entry><para>فيا رَبِّ ما خَابَتْ لَدَيْكَ الوَدَائِعُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدْ كرَّرَ الشّاعرُ كلمةَ "مدامع" في البيتينِ الأوَّلِ والخامسِ، وهذا يُعَدُّ إيطاءً.</para>
+  <para>وإنّما كانَ الإيطاءُ عيبًا؛ لأنَّهُ يدلُّ على ضَعْفِ طبْعِ الشّاعرِ، وقِلَّةِ مادَّتِهِ اللُّغويَّةِ، حيثُ قصرُ فكْرُهُ عن الإتيانِ بقافيةٍ غيرِ الأولى.</para>
+  <para>وإذا كرَّرَ الشّاعرُ كلمةَ الرَّويِّ في القصيدةِ، وفَصَلَ بينَهُما بسبعةِ أبياتٍ أو أكثرَ، فلا يُعَدُّ هذا إيطاءً، مثالٌ ذلك قولُ الشّاعر (الطويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>فَهَل أنْتِ يَا سَلْمَى وقَد حَكَمَ الهوى</para></entry><entry><para/></entry><entry><para>كَمَا كنتِ لِي أمْ حَادَ بالقَلْبِ حَائِدُ؟</para></entry></row><row><entry><para>وَهَل مُحِيَتْ آثَارُ رَسْمِ حَدِيثِنَا</para></entry><entry><para/></entry><entry><para>وأنْسَاكِ حِفْظَ الوُدٍّ هَذا التَّبَاعُدُ</para></entry></row><row><entry><para>وهَلْ تَذْكُرِينَ العَهْدَ إذْ نَحْنُ باللَّوَى</para></entry><entry><para/></entry><entry><para>وقَولُكِ: لا عَاشَ الخَؤُونُ المعَاهِدُ؟!</para></entry></row><row><entry><para>وهَل أنْتِ غَيَّرْتِ الذي أنَا حَافِظٌ؟!</para></entry><entry><para/></entry><entry><para>وهَلْ أنتِ أحْلَلْتِ الذي أنَا عَاقِدُ؟!</para></entry></row><row><entry><para>وهَل بُدِّلَتْ مِنكِ الموَدَّةُ بالجَفَا؟!</para></entry><entry><para/></entry><entry><para>وفيكِ يَقِينِي بالوَفَا مِنْكِ شَاهِدُ</para></entry></row><row><entry><para>وإنِّي مَا بَدَّلْتُ عَهْدَكِ في الهَوَى</para></entry><entry><para/></entry><entry><para>ولا اخْتَلَفتْ فِيمَا عَلِمْتِ العَوائِدُ</para></entry></row><row><entry><para>ولا بِتُّ مَسْرُورًا وعَيْشكِ لَيلَةً</para></entry><entry><para/></entry><entry><para>وكَيفَ سُلُوِّي والحَبِيبُ مُبَاعِدُ؟!</para></entry></row><row><entry><para>فمَا شِئْتِ كُونِي إنَّنِي بكِ مُدْنِفٌ</para></entry><entry><para/></entry><entry><para>صَبُورٌ عَلَى البَلْوَى شَكُورٌ وحَامِدُ</para></entry></row><row><entry><para>ومنكِ تَسَاوَى عنْدِي الوَصْلُ والجَفَا</para></entry><entry><para/></entry><entry><para>وفِيكِ لَقَد هَانَتْ عَلَيَّ الشَّدَائِدُ</para></entry></row><row><entry><para>بَعُدْتِ وقُلْتِ: البَيْنُ يُسْلِي أخَا الهَوَى</para></entry><entry><para/></entry><entry><para>وهَل يُسْلِيَ ذَا الأشْجَانِ هَذا التَّبَاعُدُ؟</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدْ كرَّرَ الشّاعرُ كلمةَ الرَّويِّ وهيَ "التَّباعدُ" بلفظِها ومعناها، وفصَلَ بينَهُما بسبعةِ أبياتٍ، وهذا لا يُعَدُّ إيطاءً.</para>
+  <para>وإذا تكرَّرَ اللَّفظُ واختلفَ المعنى لم يكنْ ذلكَ إيطاءً، ولا يُعَدُّ عيبًا على مذهبِ الجمهورِ، وهوَ الرّاجحُ، ونُقِلَ عنِ "الخليلِ" أنَّ الإيطاءَ: إعادة ُكلمةِ الرَّويِّ، سواءٌ اتَّحَدَ معناها أمِ اختلفَ. ومثال تكرارِ اللَّفظِ واختلافِ المعنى قولُ الشّاعر (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>تَبَسَّمَ الثَّغْرُ عَن أوْصَافِكُم فَغَدَا</para></entry><entry><para/></entry><entry><para>مِن طِيبِ ذِكْرِكُمُ نَشْرًا فَأحْيَانَا</para></entry></row><row><entry><para>فَمِن هُنَاكَ عَشِقْنَاكُم ولَم نَرَكُم</para></entry><entry><para/></entry><entry><para>والأذْنُ تَعْشَقُ قَبلَ العَينِ أحْيَانَا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدِ اختلفتْ كلمةُ "أحياناً" في المعنى؛ لأنَّ الأولى بمعنى الحياةِ، والثّانيةَ بمعنى الوقت، فلا يُعَدُّ ذلك عيبًا على مذهبِ الجمهورِ.</para>
+  <para> مثالٌ آخرُ(الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>كَفَفَتَ عَنِ الوِصَالِ طَويلَ شَوْقِي </para></entry><entry><para/></entry><entry><para>إليكَ وأنْتَ للرُّوحِ الخَلِيلُ</para></entry></row><row><entry><para>وكَفُّكَ للطَّوِيلِ - فَدَتْكَ نَفْسِي-</para></entry><entry><para/></entry><entry><para>قَبِيحٌ لَيسَ يَرضَاهُ الخَلِيلُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدِ اختلفتْ كلمةُ "الخليلِ" في المعنى، فالأولى بمعنى الصّاحبِ، والثّانيةُ المرادُ بها "الخليلُ بنُ أحمدَ"، فلا يُعَدُّ ذلك عيبًا على مذهبِ الجمهورِ.</para>
+  <para>*كذلكَ لا إيطاءَ بينَ المصغَّرِ والمكبَّرِ، مثلُ: "رَجُلٍ، ورُجَيلٍ"، ولا بينَ الكُنيةِ والاسمِ، مثلُ: "مالكٍ، وأبي مالكٍ"، ولا بينَ المفردِ والجمْعِ، مثلُ: " زيدٌ يرحلُ، وأهلُهُ لم يرحلوا"، وكذلكَ إذا اختلفَ عاملُ الجَرِّ لا يُعَدُّ إيطاءً، مثلُ: "أخذتُ عنهُ، وأخذتُ منهُ"، قال "الأثاريُّ":</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>فَصْلٌ مَعَ اسْمٍ كُنْيَةٌ لا تَمْتَنِعْ</para></entry><entry><para/></entry><entry><para>ومُفْرَدٌ يأتِي مَعَ الذِي جُمِعْ</para></entry></row><row><entry><para>وجَوَّزُوا أنْ يُجْمَعَ المصغَّرُ</para></entry><entry><para/></entry><entry><para>مَعْ مَا أتَى فِيهَا بهِ المكَبَّرُ</para></entry></row><row><entry><para>وهكَذا زَيدٌ أَخَذْتُ عَنْهُ</para></entry><entry><para/></entry><entry><para>وَرُحْتُ عَنْهُ جَائِزٌ ومِنْهُ</para></entry></row><row><entry><para>يَا لَيتَ لِي بِنْتًا تَذُودُ عَنِّي</para></entry><entry><para/></entry><entry><para>حَتَّى إذَا اسْتَرَحْتُ مَاتَتَ عَنِّي</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>*كذلكَ لا إيطاءَ بينَ المعرفةِ والنَّكرةِ، مثلُ: "رَجُلٍ، والرَّجلُ"، قالَ النّاظمُ: </para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ولا أرَىَ مَنْعًا مِنَ التَّكْرِيرِ</para></entry><entry><para/></entry><entry><para>إنْ كَانَ بالتَّعْرِيفِ والتَّنْكِيرِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>حُكيَ أنَّ "هندَ بنتَ النُّعْمانِ" كانتْ مِن أحسنِ زمانِها، فوصَفَ للحجّاجِ حُسنُها فخطَبَها، وكانتْ فصيحةً أديبةً، فأقامَ معَها ما شاءَ اللهُ، ثمَّ دخَلَ عليها وهيَ تنظُرُ في المرآةِ، وتقولُ (الطويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ومَا هِنْدٌ إلا مُهْرَةٌ عَرَبِيَّةٌ</para></entry><entry><para/></entry><entry><para>سَلِيلَةُ أفْرَاسٍ تَحلَّلَها بَغْلُ</para></entry></row><row><entry><para>فإنْ وَلَدَت فَحلاً فللَّهِ دَرُّهَا</para></entry><entry><para/></entry><entry><para>وإنْ وَلَدَتْ بَغْلاً فجَاءَ بهِ البَغْلُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فكلمةُ "البغْلِ" وردَتْ في البيتِ الأوَّلِ نكرةً، وفي البيتِ الثّاني معرفةً، ولا يُعَدُّ هذا عيبًا، وكانتْ هذهِ الكلمةُ سببَ طلاقِها.</para>
+  <para>وقدِ استثنى العروضيُّونَ مِن الإيطاءِ تكريرَ ما يُستَلَذُّ بذكْرِهِ، مثلُ: اسمِ اللهِ جلَّ جلالُهُ، واسمُ سيِّدنا محمَّدٍ .</para>
+  <para>مثالُ تكريرِ اسمِ اللهِ عزَّ وجلَّ قولُ الشّاعرِ(البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>يَا صَاحِبَ الهَمِّ إنَّ الهَمَّ مُنْفَرِجٌ</para></entry><entry><para/></entry><entry><para>أبْشِرْ بخَيْرٍ فإنَّ الفَارِجَ اللهُ</para></entry></row><row><entry><para>إذَا بُلِيتَ فَثِقْ باللهِ وارْضَ بِهِ</para></entry><entry><para/></entry><entry><para>إنَّ الذِي يَكْشِفُ البَلْوَى هُوَ اللهُ</para></entry></row><row><entry><para>اليَأْسُ يَقْطَعُ أحْيَانًا بصَاحِبِهِ</para></entry><entry><para/></entry><entry><para>لا تَيْأَسَنَّ فَإِنَّ الصَّانِعَ اللهُ</para></entry></row><row><entry><para>إذَا قَضَى اللهُ فَاسْتَسْلِمْ لقُدْرَتِهِ</para></entry><entry><para/></entry><entry><para>فمَا تَرَى حِيلَةً فِيمَا قَضَى اللهُ </para></entry></row><row><entry><para>واللهِ مَا لَكَ غَيرُ اللهِ مِن أحَدٍ</para></entry><entry><para/></entry><entry><para>فَحَسْبُكَ اللهُ في كُلٍّ لَكَ اللهُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>مثالُ تكريرِ اسمِ سيِّدنا محمَّدٍ  قولُ الشّاعرِ (الطويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>مُحَمَّدُ سَادَ النَّاسَ كَهْلاً ويَافِعًا</para></entry><entry><para/></entry><entry><para>وسَادَ عَلَى الأمْلاكِ أيْضًا مُحَمَّدُ</para></entry></row><row><entry><para>مُحَمَّدُ مَا أحْلَى شَمَائلَهُ ومَا</para></entry><entry><para/></entry><entry><para>ألَذَّ حَدِيثًا كَانَ فِيهِ مُحَمَّدُ!</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>6- التَّضمينُ: هوَ تعليقُ قافيةِ البيتِ بصدْرِ البيتِ الذي بعدَهُ، وهوَ نوعانِ: قبيحٌ، وجائزٌ. </para>
+  <para>فالقبيحُ: ما لا يَتِمُّ الكلامُ إلاَّ بهِ، مثلُ: جوابِ الشَّرْطِ، والقسَمِ، والخبرِ، والفاعلِ، والصِّلَةِ، ومثالُهُ قولُ الشّاعرِ (الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وَهُم وَرَدُوا الجِفَارَ عَلَى تَمِيمِ</para></entry><entry><para/></entry><entry><para>وهُمْ أصْحَابُ يَوم عُكاظٍ اِنِّي</para></entry></row><row><entry><para>شَهِدْتُ لَهُم مَواطِنَ صَادِقَاتٍ</para></entry><entry><para/></entry><entry><para>شَهِدْنَ لَهَمْ بصِدْقِ الوُدّ مِنِّي</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقافيةُ البيتِ الأوَّلِ قولُهُ: "إنّي"، وهيَ تحتاجُ إلى خبرٍ، وخبرُها في صدْرِ البيتِ التّالي؛ ولذا كانَ التَّضمينُ قبيحًا. </para>
+  <para>والجائزُ: ما يتِمُّ الكلامُ بدونِهِ، وتكونُ الحاجةُ إليهِ هيَ تكميلُ المعنى المتقَدِّمِ فقطْ، مثلُ: النَّعْتِ، والاستثناءِ، وغيرِهما.</para>
+  <para>مثالُهُ قولُ الشّاعرِ (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>عَفَا اللهُ عَن لَيلَى وإنْ سَفَكَتْ دَمِي</para></entry><entry><para/></entry><entry><para>فإنِّي وإنْ لَم تَحْزِنِي غَيرُ عَاتِبِ</para></entry></row><row><entry><para>عَلَيهَا ولا مُبْدٍ للَيْلَى شِكَايَةً</para></entry><entry><para/></entry><entry><para>وقَد يَشْتكِي الـمُشْكِيْ إلى كُلِّ صَاحِبِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقولُهُ: "عاتِبِ" في البيتِ الأوَّلِ تعلَّقَ بالجارّ والمجرورِ في صدْرِ البيتِ التّالي.</para>
+  <para>*وللتَّضمينِ معنىً آخرُ، وهوَ: أن يعمَدَ الشَّاعِرُ إلى آيةٍ قرآنيَّةٍ، أو حديثٍ نبويٍّ، أو قولِ شاعرٍ، فيجعلَهُ ضِمْنَ أبياتِهِ، وهذا لا يُعَدُّ عيبًا، ويسمّى "اقتباساً".</para>
+  <para>مثالُهُ مِن القرآن قولُ الإمامِ "عليِّ بنِ أبي طالبٍ"t (السريع):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>كَمْ مِن أدِيبٍ فَطِنٍ عَالِمٍ</para></entry><entry><para/></entry><entry><para>مُسْتَكْمِلِ العَقْلِ مُقِلٍّ عَدِيمِ</para></entry></row><row><entry><para>ومِنْ جَهُولٍ مُكْثِرٍ مَالُهُ</para></entry><entry><para/></entry><entry><para>﴿ ﯧ ﯨ ﯩ ﯪ ﴾</para><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>ومثالُهُ مِن الحديثِ النّبويِّ قولُ "أبي جعفرٍ الأندلسيِّ" (الخفيف):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>لا تُعادِ النّاسَ في أوطانِهم</para></entry><entry><para/></entry><entry><para>قلّما يُرعى غريبُ الوطنِ</para></entry></row><row><entry><para>وإذا ما شئتَ عيشاً بينَهم</para></entry><entry><para/></entry><entry><para>"خالقِ النّاسَ بخُلْقٍ حسنِ"</para><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>ومثالُهُ من الشّعرِ قولُ "بشّارِ بنِ بُرْدٍ"، والبيتِ الثاني تضمينٌ لبيتِ جريرٍ (البسيط):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>يا قَومُ أذْنِى لبَعْضِ الحَيِّ عَاشِقَةٌ</para></entry><entry><para/></entry><entry><para>والأذْنُ تَعْشَقُ قَبلَ العَينِ أحْيَانًا</para></entry></row><row><entry><para>إنَّ العُيونَ التي في طَرْفِها حَوَرٌ</para></entry><entry><para/></entry><entry><para>قَتَلْنَنَا ثُمَّ لَم يُحْيينَ قَتْلانا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>ومِنهُ قولُ "ابنِ نباتةَ المصريِّ" والشّطرُ الثاني تضمينٌ لشطرِ بيتٍ لـ"قيسِ ابنِ الملوَّح" (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>غريبُ غرامٍ في غريبِ محاسنٍ </para></entry><entry><para/></entry><entry><para>"وكلُّ غريبٍ للغريبِ نسيبُ"</para><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>Aنظْمُ الإيطاءِ والتَّضمينِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>ولا تُجِزْ إيطَاءَها بأَنْ تَرِدْ</para></entry><entry><para/></entry><entry><para>مُعَادَةَ اللفْظِ بمَا مِنْهُ قُصدْ</para></entry></row><row><entry><para>وإنْ تَطُلْ مَسَافَةُ المعَادَهْ</para></entry><entry><para/></entry><entry><para>فمُطْلَقًا جَوِّزْ بِهَا الإعَادَهْ</para></entry></row><row><entry><para>وإنْ يُعَلَّقْ آخِرُ البَيتِ بمَا</para></entry><entry><para/></entry><entry><para>يَلِي فَتَضْمِينٌ إلى القُبْحِ انْتَمَى</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>7- السِّنادُ وأنواعُهُ: السِّنادُ عيبٌ يقعُ فيما قبْلَ الرَّويِّ مِن أحرفٍ وحركاتٍ، وهوَ أنواعٌ:</para>
+  <para>أ- سِنادُ الرِّدْفِ: هوَ أنْ يكونَ بيتٌ مردَفًا، وآخرُ غيرَ مردفٍ، كقولِ الشّاعرِ (المتقارب):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>إذَا كُنْتَ في حَاجَةٍ مُرْسِلا</para></entry><entry><para/></entry><entry><para>فَأَرْسِل حَكِيمًا ولا تُوصِهِ</para></entry></row><row><entry><para>وإنْ نَاصِحٌ مِنْكَ يَومًا دَنَا</para></entry><entry><para/></entry><entry><para>فَلا تَنْأَ عَنْهُ ولا تُقْصِهِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فقدْ جاءَ البيتُ الأوَّلُ مردَفًا "توصِهِ"، والآخرُ غيرُ مردَفٍ "تُقصِهِ".</para>
+  <para>ب- سِنادُ التّأسيسِ: هوَ تأسيسُ أحدِ البيتينِ دونَ الآخرِ، كقولِ الشّاعر (الطويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>فلم أرَ شيئاً كان أحْسن منظراً</para></entry><entry><para/></entry><entry><para>من المزْنِ يجري دمْعُهُ وهْوَ ضاحكُ</para></entry></row><row><entry><para>مَرَرْنا على الرَّوضِ الذي قد تبَسَّمَتْ</para></entry><entry><para/></entry><entry><para>رُبَاهُ وأرواحُ الأبارقِ تُسْفَكُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فالقافيةُ في البيتَ الأول "ضاحكُ" وهي مؤسَّسةٌ، والقافيةُ في البيت الثّاني وهي "تسفكُ" وهي خاليةٌ مِن التّأسيسِ.</para>
+  <para>ج- سِنادُ الإشباعِ: هوَ اختلافُ حركةِ الدَّخيلِ، مثلُ: كَسْرَةِ الباءِ وضَمِّ الضّادِ في "الأصابعُ، وتواضُعُ" مِن قولِ الشّاعرِ (الطّويل):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وَهَل يَتَكَافَا النَّاسُ شَتَّى خِلالُهُمْ؟!</para></entry><entry><para/></entry><entry><para>ومَا تَتَكَافَا في اليَدَينِ الأصَابِعُ</para></entry></row><row><entry><para>يُبَجَّلُ إجْلالاً ويَكْبُر هَيْبَة</para></entry><entry><para/></entry><entry><para>أصِيلُ الحِجَا فِيهِ تُقًى وتَوَاضُعُ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>د- سِنادُ الحذْوِ: هوَ اختلافُ حركةِ ما قبلَ الرِّدْفِ بحركتينِ متباعدتينِ في الثِّقلِ "الفتحِ والكسرِ"، أو "الفتحِ والضَّمِّ"، مثلُ قولِ الشّاعرِ (الوافر):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>تُخبِّرُكَ القَبائِلُ مِن مُعَدٍّ</para></entry><entry><para/></entry><entry><para>إذَا عَدَّوا سِعَايَةَ أوَّلِينَا</para></entry></row><row><entry><para>بأنَّا النَّازِلُونَ بكُلِّ ثَغْرٍ</para></entry><entry><para/></entry><entry><para>وأنَّا الضَّارِبُونَ إذَا الْتَقَينَا</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>فحرفُ الرِّدْفِ في البيتينِ هوَ الياءُ، وقد اختلفتِ الحركةُ قبلَهُ، فجاءتْ في البيتِ الأوَّلِ مكسورةً، وجاءتْ في البيتِ الثّاني مفتوحةً.</para>
+  <para>هـ- سِنادُ التَّوجيهِ: هوَ اختلافُ حركةِ ما قبْلَ الرَّويِّ المقيَّدِ بحركاتٍ متباعِدةٍ في الثِّقلِ، كالفتحةِ معَ الضّمَّةِ أوِ الكسرة، ومثالُهُ قولُ الشّاعرِ (الخفيف):</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para> دارُ حيٍّ بُدِّلَتْ مِن بعدِهِم</para></entry><entry><para/></entry><entry><para>ساكنُ الوحْشِ وللدّهرِ عُقَبْ</para></entry></row><row><entry><para>عفتِ الدّارُ بهِم فانتحَبوا</para></entry><entry><para/></entry><entry><para>أكلَ الدّهرُ عليهِم وشَرِبْ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para>Aنظْمُ السِّنادِ:</para>
+  <informaltable frame="all">
+    <tgroup cols="3"><tbody><row><entry><para>وعِيبَ أنْ يَأتِيَ في القَصِيدِ</para></entry><entry><para/></entry><entry><para>مُخْتَلِفًا بالرِّدفِ والتَّجْريدِ</para></entry></row><row><entry><para>كَذَاكَ بالإشْبَاعِ عِيبَ فِيهِ</para></entry><entry><para/></entry><entry><para>والحَذْوِ والتَّأسِيسِ والتَّوْجِيهِ</para></entry></row></tbody></tgroup>
+  </informaltable>
+  <para/>
+  <para>h-10-39-p-01</para>
+  <para>h-10-39-p-02</para>
+  <para>h-10-39-p-03</para>
+  <para>h-10-39-p-04</para>
+  <para/>
+  <para>11</para>
+  <para/>
+</article>

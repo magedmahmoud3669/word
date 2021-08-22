@@ -215,15 +215,22 @@ public function create(){
   $lesson=0;
   $line=0;
   $text='';
-   //$xmll=simplexml_load_file('maged.xml');
-   $xmll=simplexml_load_file('realword.xml');
+   $xmll=simplexml_load_file('maged.xml');
+   //$xmll=simplexml_load_file('realword.xml');
 
  // $xmll=simplexml_load_file('mohamed.xml');
  //$xmll=simplexml_load_file('wordl.xml');
     
  
-  $myfile = fopen("lessons/lesson".$count.".html", "w") or die("Unable to open file!");       
+  $myfile = fopen("lessons/lesson".$count.".html", "w") or die("Unable to open file!");      
+  
+  foreach ($xmll->informaltable->tgroup->tbody->row->entry as $poems) {
+    $poem= $poems->para;
+   echo $poem." ";
+  }
+
   foreach($xmll->para as $para){
+    if (!empty($para)) {
     if(str_starts_with($para, 'الدرس')){
       
      
@@ -257,11 +264,7 @@ public function create(){
   </div></div>
  
   <div dir="rtl" class="text-contaner">
-
-  <p align="center" class="مربع-بوربوينت">
-    <a data-fancybox="" data-type="iframe" href="https://reach.esteam.rocks/html5/html5lib/v2.80/mwEmbedFrame.php/p/102/uiconf_id/23448169/entry_id/h-10-01-v-1?wid=_102" class="btn btn-primary">اضغط هنا لمشاهدة الفيديو التوضيحي</a>
-  </p>
-  ';
+';
   
   $count++;
   $line++;
@@ -281,12 +284,12 @@ public function create(){
 
     if (str_starts_with($para, 'A'))
     {
-
-      if((17 <= $line) && ($line <= 21)){
+      $line++;
+      if(($line>=15) && ($line <=18)){
+       
         $page++;
-
         $text.=' </div></div><div id="page'.$page.' '.$line.'"><div class="top"></div><div dir="rtl" class="text-contaner">';
-        $line=0;
+        $line++;
 
       }
 
@@ -297,12 +300,25 @@ public function create(){
 
         </p>';
 
-        $line++;  
-  $count++;
+       
   continue;
   }
 
+  if (str_starts_with($para, 'h'))
+  {
+    
+
+if (strchr($para,"p")) {
+  $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images" href="assets/pp/'.$para.'.jpg">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+}
+ 
+if (strchr($para,"v")) {
+  $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox=" data-type="iframe" href="https://reach.esteam.rocks/html5/html5lib/v2.80/mwEmbedFrame.php/p/102/uiconf_id/23448169/entry_id/h-10-02-v-01?wid=_102" class="btn btn-primary">اضغط هنا لمشاهدة الفيديو التوضيحي</a></p>';
+}
   
+continue;
+
+}
 
 
   if (!(str_starts_with($para, 'A'))){
@@ -314,7 +330,7 @@ public function create(){
 
           $line=$line+$plines;
           $text.='<p class="فقرة-بمسافة">
-          '.$para.' '.$line.'
+'.$para.' '.$line.'
        </p>';
 
 
@@ -340,14 +356,23 @@ public function create(){
 
               
   }
-  
+}
   
 
    return view("test");
     // echo $count;
 // $xml=simplexml_load_file("document.xml");
 
-          
+      
+
+
+
+
+
+
+
+
+
 
 
 }

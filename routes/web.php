@@ -21,6 +21,7 @@ Route::get('/write', '\App\Http\Controllers\WordController@write');
 Route::get('/pages', '\App\Http\Controllers\WordController@pages');
 Route::get('/create', '\App\Http\Controllers\WordController@create');
 Route::get('/creater', '\App\Http\Controllers\WordController@creater');
+Route::get('/creater', '\App\Http\Controllers\WordController@creater');
 
 
 

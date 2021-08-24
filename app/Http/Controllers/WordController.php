@@ -214,6 +214,7 @@ public function create(){
   $page=1;
   $lesson=0;
   $line=0;
+  $check=0;
   $text='';
    $xmll=simplexml_load_file('maged.xml');
    //$xmll=simplexml_load_file('realword.xml');
@@ -249,6 +250,7 @@ public function create(){
        $text="";
        $page=1;
        $line=0;
+       $check=0;
        $myfile = fopen("lessons/lesson".$lesson.".html", "w") or die("Unable to open file!");   
       }
 
@@ -308,14 +310,32 @@ public function create(){
   {
     
 
-if (strchr($para,"p")) {
-  $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images" href="assets/pp/'.$para.'.jpg">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+if (strchr($para,"p")) 
+{
+
+// $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images" href="assets/pp/'.$para.'.jpg">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+//echo $check;
+  if ($check==0) {
+   
+    $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images" href="assets/pp/'.$para.'.jpg">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+    $check++;
+    
+    continue;
+  }
+  if ($check!=0){
+    $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images"  style="display:none;" href="assets/pp/'.$para.'.jpg">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+  
+  continue;
+  }
+
+
+
 }
  
 if (strchr($para,"v")) {
   $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox=" data-type="iframe" href="https://reach.esteam.rocks/html5/html5lib/v2.80/mwEmbedFrame.php/p/102/uiconf_id/23448169/entry_id/h-10-02-v-01?wid=_102" class="btn btn-primary">اضغط هنا لمشاهدة الفيديو التوضيحي</a></p>';
 }
-  
+
 continue;
 
 }

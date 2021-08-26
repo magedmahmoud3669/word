@@ -13,6 +13,12 @@
 	padding-top: 10px;
 	background:url(../img/tittle_under_line.png) center bottom  no-repeat !important;
 }
+.poetry{
+width: 45%;
+    float: right;
+    padding-left: 5%;
+	font-weight:bold;
+}
 .lesson_tittle2{
 	width: 95%;
     font-size: 19px;

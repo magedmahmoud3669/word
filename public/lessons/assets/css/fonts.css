@@ -13,7 +13,24 @@
 	padding-top: 10px;
 	background:url(../img/tittle_under_line.png) center bottom  no-repeat !important;
 }
-
+.poetry{
+width: 45%;
+    float: right;
+    padding-left: 5%;
+	font-weight:bold;
+}
+.lesson_tittle2{
+	width: 95%;
+    font-size: 19px;
+    text-align: left;
+	color:#0f64aa;
+	font-family:"cairo";
+	font-weight:bold;
+	direction:rtl;
+	line-height: 51px;
+	padding-top: 10px;
+	background:url(../img/tittle_under_line.png) center bottom  no-repeat !important;
+}
 .عنوان-فرعي1{
 	font-size:22px;
 	color:#243c85;

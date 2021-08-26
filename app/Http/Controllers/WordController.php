@@ -3,47 +3,14 @@
 namespace App\Http\Controllers;
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
+use DOMDocument;
+
 class WordController extends Controller
-{ 
+{  
 
+ 
 
-  public function pages()
-  {
-     $count=0;
-    $xmll=simplexml_load_file('realword.xml');
-
-  //  $xmll=simplexml_load_file('maged.xml');
-    foreach($xmll->para as $para){
-
-      if(str_starts_with($para, 'الدرس')){
-         $count=$count+1;
-
-         echo $para."<br/>";
-      }
-
-    
-    //      return view("store",["count"=>$count]);
-          
-         /*  // for( $i=1; $i<=$count; $i++){
-        $myfile = fopen("lessons/lesson".$i.".html", "w") or die("Unable to open file!");
-        $text='
-        ';
-         fwrite($myfile, $text);
-         fclose($myfile);} */
-        //  $word="مَرَحبْا";
-        //  $word2="مرحبا";
-        //  // echo strlen($word2);
-        //  //echo mb_strlen( $word,'UTF-8');
-   
-
-        //  $remove = array('ِ', 'ُ', 'ٓ', 'ٰ', 'ْ', 'ٌ', 'ٍ', 'ً', 'ّ', 'َ');
-        //  $word = str_replace($remove, '', $word);
-        //  echo mb_strlen($word);
-
-         }
-}
-
-
+ 
 public function create(){
 
   $pageTop=' <!DOCTYPE html>
@@ -210,20 +177,39 @@ public function create(){
   $remove = array('ِ', 'ُ', 'ٓ', 'ٰ', 'ْ', 'ٌ', 'ٍ', 'ً', 'ّ', 'َ');
  
 
-  $count=1;
-  $page=1;
+  $count=1;  //يستخدم كبداية لائنشاء اول ملف
+  $page=1;  
   $lesson=0;
   $line=0;
   $text='';
-   //$xmll=simplexml_load_file('maged.xml');
-   $xmll=simplexml_load_file('realword.xml');
+  $check_photo=0;//يستخدم كمتغير عند قراءة اكثر من صورة 
+  $video_id=0;
+  $videos=array();
+  // $xmll=simplexml_load_file('maged.xml');
+  // $xmll=simplexml_load_file('realwordd.xml');
 
- // $xmll=simplexml_load_file('mohamed.xml');
- //$xmll=simplexml_load_file('wordl.xml');
-    
+  $xmlll=simplexml_load_file('word47.xml');
+  $xmll= $xmlll->xpath('//*');
+
  
+  $dom = new DOMDocument;
+$dom->load('document.xml');
+
+
+$Poetry = $dom->getElementsByTagName('informaltable');
+//dd($Poetry);
+$paragraph = $dom->getElementsByTagName('DD');
+//dd($paragraph);
+// foreach ($Poetry as $Poet) {
+//   echo $Poet->nodeValue, PHP_EOL;
+// }
+foreach ($paragraph as $paragr) {
+  echo $paragr->nodeValue, PHP_EOL;
+}
   $myfile = fopen("lessons/lesson".$count.".html", "w") or die("Unable to open file!");       
-  foreach($xmll->para as $para){
+  foreach($xmll as $para){
+  
+    if (!empty($para)){
     if(str_starts_with($para, 'الدرس')){
       
      
@@ -234,7 +220,7 @@ public function create(){
      
       if ($count !=0){
         if(!($page%2==0)){
-          $text.=' </div></div><div id="page'.$page.' '.$line.'"><div class="top"></div><div dir="rtl" class="text-contaner">';
+          $text.=' </div></div><div id="page"><div class="top"></div><div dir="rtl" class="text-contaner">';
         }
         $text.=' </div></div>';
         $text = $pageTop.$text.$footer;
@@ -242,6 +228,8 @@ public function create(){
        $text="";
        $page=1;
        $line=0;
+       $check_photo=0;
+      
        $myfile = fopen("lessons/lesson".$lesson.".html", "w") or die("Unable to open file!");   
       }
 
@@ -251,20 +239,31 @@ public function create(){
         
   <div class="top"><div align="center" class="اسم-الدرس">
  
-    <p class="اسم-الدرس"><a name="مقدمة_لعلم_العروض">'.$Name_Lesson.' '.$line.'</a></p>
+    <p class="اسم-الدرس"><a name="مقدمة_لعلم_العروض">'.$Name_Lesson.' </a></p>
    
 
   </div></div>
  
   <div dir="rtl" class="text-contaner">
 
-  <p align="center" class="مربع-بوربوينت">
-    <a data-fancybox="" data-type="iframe" href="https://reach.esteam.rocks/html5/html5lib/v2.80/mwEmbedFrame.php/p/102/uiconf_id/23448169/entry_id/h-10-01-v-1?wid=_102" class="btn btn-primary">اضغط هنا لمشاهدة الفيديو التوضيحي</a>
-  </p>
-  ';
   
-  $count++;
+  ';
+  $videos=array("0_wb9cupgq","0_93risyfy","0_v1gjqvk8","0_vuus1him","0_aqc1g6oq","0_eugtahwn",
+      "0_ey63juwy","0_s46orl6h","0_e55axir7","0_f3cn7q3d","0_wb5mtq4v","0_m6behpyq",
+       "0_0kig3l2h","0_sqydl1pc","0_scmw51db","0_m2okd300","0_vz75aeex","0_28etwpig",
+      "0_6lend3n4","0_z8p7yx6h","0_j60cr28a","0_j58mj9yu","0_yhosllqh","0_hqf9k3sg",
+      "0_9qrys8it","0_rrxqoid3","0_puf9noiz","0_kar0f2ui","0_ac8olvxi","0_vb58l1i1", 
+      "0_wyga4jol","0_00cieb8l","0_sh0bt6ng","0_2qcwt6vy","0_bg3yra96","0_6t959qtm",
+      "0_pt0sq8bm",  "0_eosmw5yn","0_zmerk8yk","0_dnprdl95","0_86by6ypn","0_3bh8g64v",
+      "0_ma6xasr2","0_7alfct54","0_cdps7sas","0_siti4126","0_weznh5sd");
+  
+  
+  
+  $text.="<p align='center' class='مربع-بوربوينت'><a data-fancybox='' data-type='iframe' href='https://reach.esteam.rocks/p/102/sp/10200/embedIframeJs/uiconf_id/23448169/partner_id/102?iframeembed=true&playerId=kaltura_player_1591890467&entry_id=".$videos[$video_id]."' class='btn btn-primary'>اضغط هنا لمشاهدة الفيديو التوضيحي</a></p>";
+  
+  //$count++;
   $line++;
+  $video_id++; 
   continue;
     }
   
@@ -273,19 +272,21 @@ public function create(){
     
     if ($line>20){  
       $page++;
-      $text.=' </div></div><div id="page'.$page.' '.$line.'"><div class="top"></div><div dir="rtl" class="text-contaner">';
+      $text.=' </div></div><div id="page"><div class="top"></div><div dir="rtl" class="text-contaner">';
       $line=0;
 
     }
 
-
+    
     if (str_starts_with($para, 'A'))
     {
+      
+  
 
       if((17 <= $line) && ($line <= 21)){
         $page++;
 
-        $text.=' </div></div><div id="page'.$page.' '.$line.'"><div class="top"></div><div dir="rtl" class="text-contaner">';
+        $text.=' </div></div><div id="page"><div class="top"></div><div dir="rtl" class="text-contaner">';
         $line=0;
 
       }
@@ -293,40 +294,78 @@ public function create(){
 
 
 
-    $text.='   <p class="فقرة"><a name="lesson-1B" class="عناصر">'.trim($para, "A").' '.$line.'</a>
+    $text.='   <p class="فقرة"><a name="lesson-1B" class="عناصر">'.trim($para, "A").' </a>
 
         </p>';
 
         $line++;  
-  $count++;
+  //$count++;
   continue;
   }
+  
+  if (str_starts_with($para, 'h'))
+  {
+    
+
+if (strchr($para,"p")) 
+{
+
+  if ($check_photo==0) {
+ 
+    $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images" href="assets/pp/'.$para.'.JPG">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+    $check_photo++;
+    
+    continue;
+  }
+  if ($check_photo!=0){
+    $text.='<p align="center" class="مربع-بوربوينت"><a data-fancybox="images"  style="display:none;" href="assets/pp/'.$para.'.JPG">اضغط هنا لمشاهدة الخريطة التوضيحية</a></p>';
+  
+  continue;
+  }
+  
+   if (strchr($para,"V")) 
+  {
+    $text.=substr_replace($para," ");
+
+
+}
+ 
+
+
+}
+
+
+ 
+}
 
   
 
-
   if (!(str_starts_with($para, 'A'))){
 
-         
+   
+
+   
+  
+ 
          
     $plines=0;
           $plines=ceil(mb_strlen(str_replace($remove, '', $para),'UTF-8')/60);
 
           $line=$line+$plines;
           $text.='<p class="فقرة-بمسافة">
-          '.$para.' '.$line.'
+          '.$para.' 
        </p>';
 
 
          
-         //echo $line."<br>";
+        
 
-            $count++;
+         //   $count++;
             
             continue;
         
 
-        
+            
 
   }
 
@@ -334,71 +373,26 @@ public function create(){
   
   
 
-//fwrite($myfile,$text);
-  
-              //  fclose($myfile);
 
-              
+
+          
   }
   
+  }
   
 
+  $text.=' </div></div>';
+  $text = $pageTop.$text.$footer;
+  
+fwrite($myfile,$text);
+       
+fclose($myfile);
    return view("test");
-    // echo $count;
-// $xml=simplexml_load_file("document.xml");
+    
 
           
 
 
 }
-    public function index(){
-
-        $paragraph=array();
-        $counter = array();
-        $line=0;
-       $xmll=simplexml_load_file('maged.xml');
-      //  $result = $xmll->xpath('//*');
-      //  foreach($result as $res){
-      //    // print_r($r);
-      //    if(str_starts_with($res, 'الدرس')){
-      //                  $count=$count+1;
-      //                //  echo $res;
-      //    }
-     
-        foreach($xmll->para as $para){
-
-        {
-           if(!(str_starts_with($para, 'A'))&&!(str_starts_with($para, 'h')) &&!(str_starts_with($para, 'الدرس'))){
-            //$count=$count+1;
-            $npara=trim($para);
-            $line=$line+1;
-            array_push($paragraph,$npara);
-            //echo $para."<br/>";
-           // echo count($paragraph);
-         }
-       
-        elseif(str_starts_with($para, 'A')) {
-          //echo $line."<br>";
-          $line=0;
-          $bpara=trim($para);
-          array_push($paragraph,$bpara);
-        }
-        elseif(str_starts_with($para, 'الدرس')) {
-          $bpara=trim($para);
-          array_push($paragraph,$bpara);
-        }
-        }
-
-         
-        }
-        $counter=array_flip($paragraph);
-       /*echo "<pre>";
-        print_r($counter);
-        echo "</pre>";
-       // $data= count($counter);*/
-
-        
-      return view("store",["counter"=>$counter]);
-
-}
+   
 }

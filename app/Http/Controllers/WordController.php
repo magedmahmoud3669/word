@@ -3,45 +3,11 @@
 namespace App\Http\Controllers;
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Request;
+//use  DOMDocument;
+ 
 class WordController extends Controller
 { 
-
-
-  public function pages()
-  {
-     $count=0;
-    $xmll=simplexml_load_file('realword.xml');
-
-  //  $xmll=simplexml_load_file('maged.xml');
-    foreach($xmll->para as $para){
-
-      if(str_starts_with($para, 'الدرس')){
-         $count=$count+1;
-
-         echo $para."<br/>";
-      }
-
-    
-    //      return view("store",["count"=>$count]);
-          
-         /*  // for( $i=1; $i<=$count; $i++){
-        $myfile = fopen("lessons/lesson".$i.".html", "w") or die("Unable to open file!");
-        $text='
-        ';
-         fwrite($myfile, $text);
-         fclose($myfile);} */
-        //  $word="مَرَحبْا";
-        //  $word2="مرحبا";
-        //  // echo strlen($word2);
-        //  //echo mb_strlen( $word,'UTF-8');
-   
-
-        //  $remove = array('ِ', 'ُ', 'ٓ', 'ٰ', 'ْ', 'ٌ', 'ٍ', 'ً', 'ّ', 'َ');
-        //  $word = str_replace($remove, '', $word);
-        //  echo mb_strlen($word);
-
-         }
-}
+  
 
 
 public function create(){

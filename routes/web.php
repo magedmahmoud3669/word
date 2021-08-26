@@ -24,5 +24,8 @@ Route::get('/creater', '\App\Http\Controllers\WordController@creater');
 Route::get('/creater', '\App\Http\Controllers\WordController@creater');
 
 
+Route::get('/new', '\App\Http\Controllers\TextController@tester');
+
+
 
 

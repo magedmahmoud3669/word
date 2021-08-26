@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+                <wbody>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wbookmarkStart wid="0" wname="_GoBack" />
+                        <wbookmarkEnd wid="0" />
+                        <wr>
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>الدرس الأول:مقدمة لعلم العروض</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wproofErr wtype="gramStart" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>h-10-01-v-1</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                        </wpPr>
+                        <wbookmarkStart wid="1" wname="_Toc198544900" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">تعريف عِلْمُ العَروضِ </wt>
+                        </wr>
+                        <wbookmarkEnd wid="1" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="0090475B" wrsidRDefault="00417B33" wrsidP="00F01630">
+                        <wr wrsidRPr="0090475B">
+                            <wrPr>
+                                <wrFonts whint="cs" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="00F01630">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="002060" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>العَروضُ لغةً</wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00F01630">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">: النّاحيةُ، من ذلك قَولُهم: أنتَ مَعِي في عَرُوض لا تُلائِمُني، أي: في نَاحِيةٍ، قال الشّاعرُ (الوافر): </wt>
+                        </wr>
+                    </wp>
+                    <wtbl>
+                        <wtblPr>
+                            <wbidiVisual />
+                            <wtblW ww="7305" wtype="dxa" />
+                            <wjc wval="center" />
+                            <wtblLayout wtype="fixed" />
+                            <wtblLook wval="01E0" wfirstRow="1" wlastRow="1" wfirstColumn="1" wlastColumn="1" wnoHBand="0" wnoVBand="0" />
+                        </wtblPr>
+                        <wtblGrid>
+                            <wgridCol ww="3557" />
+                            <wgridCol ww="287" />
+                            <wgridCol ww="3461" />
+                        </wtblGrid>
+                        <wtr wrsidR="00447868" wrsidTr="00447868">
+                            <wtrPr>
+                                <wtrHeight whRule="exact" wval="533" />
+                                <wjc wval="center" />
+                            </wtrPr>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="3554" wtype="dxa" />
+                                    <whideMark />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wt>فإنْ يُعْرِضْ أبو العَبَّاسِ عَنِّي</wt>
+                                    </wr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wbr />
+                                    </wr>
+                                </wp>
+                            </wtc>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="287" wtype="dxa" />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wind wfirstLine="720" />
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                </wp>
+                            </wtc>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="3459" wtype="dxa" />
+                                    <whideMark />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wt>ويَركَب بي عَرُوضًا عَن عَرُوضِ</wt>
+                                    </wr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wbr />
+                                    </wr>
+                                </wp>
+                            </wtc>
+                        </wtr>
+                    </wtbl>
+                    <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ولِهَذا سُمِّيَتِ النَّاقَةُ التي تَعتَرِضُ في سَيْرِها "عَرُوضًا"؛ لأنَّها تأخذ في ناحِيَةٍ غيرِالنَّاحِية التي تَسلُكها.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="002060" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">وسُمِّيَ العَروضُ كذلك؛ لأنَّه ناحيةٌ من العلوم لم تُسْلَك من قبلُ. </wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrStyle wval="matnChar" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FFC000" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>واصطلاحًا</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrStyle wval="matnChar" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>: عِلمٌ يُعرَفُ به صَحِيحُ الشِّعْرِ من فاسِدِه، وما يعتَريهِ من زحَافَاتٍ وعِلَل.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>سببُ تسميتِه بعلم العَروض:</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>سمَّاهُ الخَليلُ عروضًا:</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868" wrsidP="00311A96">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wleft="713" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">أ- لأنَّه أُلْهِمَه بمكَّةَ، فَسَمَّاهُ بذلك تيمُّنًا بها، وسُمِّيَت مكَّةُ عَروضًا؛لاعتراضِها وفصلها بين نَجد </wt>
+                        </wr>
+                        <wr wrsidR="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>وتهامة، وذلك من تسمية الشيء باسم محلِّهِ، ففيه مجازٌ مرسل، علاقتُهُ المحليَّةُ.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ب-  أو لأنَّ العروضَ مِن نواحي العلومِ التي لم تُسْلكْ مِن قبلُ؛ لأنَّهُ في اللُّغة بمَعنى: النّاحيةِ.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ج-  أو لأنَّه صَعبٌ على دَارسهِ في أوَّلِ عَهدِه به.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>د-  أو لأنَّ العَروضَ من البيتِ جُزْءٌ مُهِمٌّ، فَسُمِّيَ باسْمِ جُزئه.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00CD4DC8" wrsidP="00311A96">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wjc wval="both" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">هـ-  أو لأنَّه يُعْرَضُ عليه الشِّعر، فما وافَقَه كان صَحيحًا، وما خَالفه كان فاسدًا، قال </wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الدَّمامِينى: ولعلَّ هذا أقْرَبُها.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>واضعُ علمِ العَروضِ:</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخَلِيلُ بنُ أحمَدَ الفَراهِيدِي، سيِّدُ الأدباءِ في عِلْمه وزُهدِه، أقامَ في خُصٍّ–كوخ- بالبَصرة، وكان أسْتاذًا لسيبويه، وكان رَحِمَه الله آيةً في الذَّكَاء.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="003B2CEE" wrsidRDefault="00447868" wrsidP="003B2CEE">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>حكمُ الاقتِباسِ مِن كلامِ اللهِ تَعالى:</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">يجوزُ الاقتباسُ مِنْ كلامِ اللهِ تَعالى، وكلامِ رسولهِ صلى الله عليه وسلم </wt>
+                        </wr>
+                        <wr wrsidR="003A3386">
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ﷺ</wt>
+                        </wr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>إن لمْ يشتملْ على سوءِ أدبٍ، وإلَّا فحرامٌ</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xml:space="preserve">لإن أخطأت في مدحك:: ما أخطأت في منعي </wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>لقد أنزلت حاجاتي بواد:: غير ذي زرع</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wproofErr wtype="gramStart" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>h-10-01-</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>p</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>-01</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868" />
+                    <wp wrsidR="003200E1" wrsidRDefault="003200E1" />
+                    <wsectPr wrsidR="003200E1">
+                        <wpgSz ww="12240" wh="15840" />
+                        <wpgMar wtop="1440" wright="1440" wbottom="1440" wleft="1440" wheader="708" wfooter="708" wgutter="0" />
+                        <wcols wspace="708" />
+                        <wdocGrid wlinePitch="360" />
+                    </wsectPr>
+                </wbody>
+     
+
+  

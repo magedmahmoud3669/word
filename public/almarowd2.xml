@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<pkgpackage>
+    <pkgpart pkgname="/_rels/.rels" pkgcontentType="application/vnd.openxmlformats-package.relationships+xml" pkgpadding="512">
+        <pkgxmlData>
+            <Relationships >
+                <Relationship Id="rId3" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties" Target="docProps/app.xml" />
+                <Relationship Id="rId2" Type="http//schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="docProps/core.xml" />
+                <Relationship Id="rId1" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml" />
+            </Relationships>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/_rels/document.xml.rels" pkgcontentType="application/vnd.openxmlformats-package.relationships+xml" pkgpadding="256">
+        <pkgxmlData>
+            <Relationships  >
+                <Relationship Id="rId3" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml" />
+                <Relationship Id="rId7" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml" />
+                <Relationship Id="rId2" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml" />
+                <Relationship Id="rId1" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/customXml" Target="../customXml/item1.xml" />
+                <Relationship Id="rId6" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable" Target="fontTable.xml" />
+                <Relationship Id="rId5" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings" Target="webSettings.xml" />
+                <Relationship Id="rId4" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml" />
+            </Relationships>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/document.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+        <pkgxmlData>
+            <wdocument mcIgnorable="w14 w15 wp14" xmlnswpc="http//schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnso="urnschemas-microsoft-comofficeoffice" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsm="http//schemas.openxmlformats.org/officeDocument/2006/math" xmlnsv="urnschemas-microsoft-comvml" xmlnswp14="http//schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlnswp="http//schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlnsw10="urnschemas-microsoft-comofficeword" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml" xmlnswpg="http//schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlnswpi="http//schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlnswne="http//schemas.microsoft.com/office/word/2006/wordml" xmlnswps="http//schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <wbody>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wbookmarkStart wid="0" wname="_GoBack" />
+                        <wbookmarkEnd wid="0" />
+                        <wr>
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>الدرس الأولمقدمة لعلم العروض</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wproofErr wtype="gramStart" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>h-10-01-v-1</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wb />
+                                <wbCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                        </wpPr>
+                        <wbookmarkStart wid="1" wname="_Toc198544900" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">تعريف عِلْمُ العَروضِ </wt>
+                        </wr>
+                        <wbookmarkEnd wid="1" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="0090475B" wrsidRDefault="00417B33" wrsidP="00F01630">
+                        <wr wrsidRPr="0090475B">
+                            <wrPr>
+                                <wrFonts whint="cs" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="00F01630">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="002060" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>العَروضُ لغةً</wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00F01630">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> النّاحيةُ، من ذلك قَولُهم أنتَ مَعِي في عَرُوض لا تُلائِمُني، أي في نَاحِيةٍ، قال الشّاعرُ (الوافر) </wt>
+                        </wr>
+                    </wp>
+                    <wtbl>
+                        <wtblPr>
+                            <wbidiVisual />
+                            <wtblW ww="7305" wtype="dxa" />
+                            <wjc wval="center" />
+                            <wtblLayout wtype="fixed" />
+                            <wtblLook wval="01E0" wfirstRow="1" wlastRow="1" wfirstColumn="1" wlastColumn="1" wnoHBand="0" wnoVBand="0" />
+                        </wtblPr>
+                        <wtblGrid>
+                            <wgridCol ww="3557" />
+                            <wgridCol ww="287" />
+                            <wgridCol ww="3461" />
+                        </wtblGrid>
+                        <wtr wrsidR="00447868" wrsidTr="00447868">
+                            <wtrPr>
+                                <wtrHeight whRule="exact" wval="533" />
+                                <wjc wval="center" />
+                            </wtrPr>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="3554" wtype="dxa" />
+                                    <whideMark />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wt>فإنْ يُعْرِضْ أبو العَبَّاسِ عَنِّي</wt>
+                                    </wr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wbr />
+                                    </wr>
+                                </wp>
+                            </wtc>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="287" wtype="dxa" />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wind wfirstLine="720" />
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                </wp>
+                            </wtc>
+                            <wtc>
+                                <wtcPr>
+                                    <wtcW ww="3459" wtype="dxa" />
+                                    <whideMark />
+                                </wtcPr>
+                                <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868">
+                                    <wpPr>
+                                        <wwidowControl wval="0" />
+                                        <wtabs>
+                                            <wtab wval="left" wpos="67" />
+                                        </wtabs>
+                                        <wjc wval="lowKashida" />
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                        </wrPr>
+                                    </wpPr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wt>ويَركَب بي عَرُوضًا عَن عَرُوضِ</wt>
+                                    </wr>
+                                    <wr wrsidRPr="00311A96">
+                                        <wrPr>
+                                            <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                            <wcolor wval="FF0000" />
+                                            <wsz wval="36" />
+                                            <wszCs wval="36" />
+                                            <wrtl />
+                                        </wrPr>
+                                        <wbr />
+                                    </wr>
+                                </wp>
+                            </wtc>
+                        </wtr>
+                    </wtbl>
+                    <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ولِهَذا سُمِّيَتِ النَّاقَةُ التي تَعتَرِضُ في سَيْرِها "عَرُوضًا"؛ لأنَّها تأخذ في ناحِيَةٍ غيرِالنَّاحِية التي تَسلُكها.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="002060" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wcolor wval="00B0F0" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">وسُمِّيَ العَروضُ كذلك؛ لأنَّه ناحيةٌ من العلوم لم تُسْلَك من قبلُ. </wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrStyle wval="matnChar" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FFC000" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>واصطلاحًا</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrStyle wval="matnChar" />
+                                <wrtl />
+                            </wrPr>
+                            <wt> عِلمٌ يُعرَفُ به صَحِيحُ الشِّعْرِ من فاسِدِه، وما يعتَريهِ من زحَافَاتٍ وعِلَل.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>سببُ تسميتِه بعلم العَروض</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>سمَّاهُ الخَليلُ عروضًا</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00311A96" wrsidRDefault="00447868" wrsidP="00311A96">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wleft="713" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">أ- لأنَّه أُلْهِمَه بمكَّةَ، فَسَمَّاهُ بذلك تيمُّنًا بها، وسُمِّيَت مكَّةُ عَروضًا؛لاعتراضِها وفصلها بين نَجد </wt>
+                        </wr>
+                        <wr wrsidR="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>وتهامة، وذلك من تسمية الشيء باسم محلِّهِ، ففيه مجازٌ مرسل، علاقتُهُ المحليَّةُ.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ب-  أو لأنَّ العروضَ مِن نواحي العلومِ التي لم تُسْلكْ مِن قبلُ؛ لأنَّهُ في اللُّغة بمَعنى النّاحيةِ.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ج-  أو لأنَّه صَعبٌ على دَارسهِ في أوَّلِ عَهدِه به.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>د-  أو لأنَّ العَروضَ من البيتِ جُزْءٌ مُهِمٌّ، فَسُمِّيَ باسْمِ جُزئه.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00CD4DC8" wrsidP="00311A96">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wjc wval="both" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">هـ-  أو لأنَّه يُعْرَضُ عليه الشِّعر، فما وافَقَه كان صَحيحًا، وما خَالفه كان فاسدًا، قال </wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00311A96">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" whint="cs" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00447868" wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الدَّمامِينى ولعلَّ هذا أقْرَبُها.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00CD4DC8" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="000000" />
+                                <wsz wval="44" />
+                                <wszCs wval="44" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>واضعُ علمِ العَروضِ</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00CD4DC8">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wind wfirstLine="720" />
+                        </wpPr>
+                        <wr wrsidRPr="00CD4DC8">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="36" />
+                                <wszCs wval="36" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخَلِيلُ بنُ أحمَدَ الفَراهِيدِي، سيِّدُ الأدباءِ في عِلْمه وزُهدِه، أقامَ في خُصٍّ–كوخ- بالبَصرة، وكان أسْتاذًا لسيبويه، وكان رَحِمَه الله آيةً في الذَّكَاء.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="003B2CEE" wrsidRDefault="00447868" wrsidP="003B2CEE">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>A</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>حكمُ الاقتِباسِ مِن كلامِ اللهِ تَعالى</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">يجوزُ الاقتباسُ مِنْ كلامِ اللهِ تَعالى، وكلامِ رسولهِ صلى الله عليه وسلم </wt>
+                        </wr>
+                        <wr wrsidR="003A3386">
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ﷺ</wt>
+                        </wr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wu wval="single" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>إن لمْ يشتملْ على سوءِ أدبٍ، وإلَّا فحرامٌ</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wi />
+                                <wiCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">لإن أخطأت في مدحك ما أخطأت في منعي </wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRPr="00644C8A" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wspacing wafter="0" wline="240" wlineRule="auto" />
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00644C8A">
+                            <wrPr>
+                                <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="40" />
+                                <wszCs wval="40" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>لقد أنزلت حاجاتي بواد غير ذي زرع</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868">
+                        <wpPr>
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wproofErr wtype="gramStart" />
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>h-10-01-</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>p</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wcs="Calibri" />
+                                <wcolor wval="000000" />
+                            </wrPr>
+                            <wt>-01</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="00447868" wrsidRDefault="00447868" wrsidP="00447868" />
+                    <wp wrsidR="003200E1" wrsidRDefault="003200E1" />
+                    <wsectPr wrsidR="003200E1">
+                        <wpgSz ww="12240" wh="15840" />
+                        <wpgMar wtop="1440" wright="1440" wbottom="1440" wleft="1440" wheader="708" wfooter="708" wgutter="0" />
+                        <wcols wspace="708" />
+                        <wdocGrid wlinePitch="360" />
+                    </wsectPr>
+                </wbody>
+            </wdocument>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/theme/theme1.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.theme+xml">
+        <pkgxmlData>
+            <atheme name="Office Theme" xmlnsa="http//schemas.openxmlformats.org/drawingml/2006/main">
+                <athemeElements>
+                    <aclrScheme name="Office">
+                        <adk1>
+                            <asysClr val="windowText" lastClr="000000" />
+                        </adk1>
+                        <alt1>
+                            <asysClr val="window" lastClr="FFFFFF" />
+                        </alt1>
+                        <adk2>
+                            <asrgbClr val="44546A" />
+                        </adk2>
+                        <alt2>
+                            <asrgbClr val="E7E6E6" />
+                        </alt2>
+                        <aaccent1>
+                            <asrgbClr val="5B9BD5" />
+                        </aaccent1>
+                        <aaccent2>
+                            <asrgbClr val="ED7D31" />
+                        </aaccent2>
+                        <aaccent3>
+                            <asrgbClr val="A5A5A5" />
+                        </aaccent3>
+                        <aaccent4>
+                            <asrgbClr val="FFC000" />
+                        </aaccent4>
+                        <aaccent5>
+                            <asrgbClr val="4472C4" />
+                        </aaccent5>
+                        <aaccent6>
+                            <asrgbClr val="70AD47" />
+                        </aaccent6>
+                        <ahlink>
+                            <asrgbClr val="0563C1" />
+                        </ahlink>
+                        <afolHlink>
+                            <asrgbClr val="954F72" />
+                        </afolHlink>
+                    </aclrScheme>
+                    <afontScheme name="Office">
+                        <amajorFont>
+                            <alatin typeface="Calibri Light" panose="020F0302020204030204" />
+                            <aea typeface="" />
+                            <acs typeface="" />
+                            <afont script="Jpan" typeface="ＭＳ ゴシック" />
+                            <afont script="Hang" typeface="맑은 고딕" />
+                            <afont script="Hans" typeface="宋体" />
+                            <afont script="Hant" typeface="新細明體" />
+                            <afont script="Arab" typeface="Times New Roman" />
+                            <afont script="Hebr" typeface="Times New Roman" />
+                            <afont script="Thai" typeface="Angsana New" />
+                            <afont script="Ethi" typeface="Nyala" />
+                            <afont script="Beng" typeface="Vrinda" />
+                            <afont script="Gujr" typeface="Shruti" />
+                            <afont script="Khmr" typeface="MoolBoran" />
+                            <afont script="Knda" typeface="Tunga" />
+                            <afont script="Guru" typeface="Raavi" />
+                            <afont script="Cans" typeface="Euphemia" />
+                            <afont script="Cher" typeface="Plantagenet Cherokee" />
+                            <afont script="Yiii" typeface="Microsoft Yi Baiti" />
+                            <afont script="Tibt" typeface="Microsoft Himalaya" />
+                            <afont script="Thaa" typeface="MV Boli" />
+                            <afont script="Deva" typeface="Mangal" />
+                            <afont script="Telu" typeface="Gautami" />
+                            <afont script="Taml" typeface="Latha" />
+                            <afont script="Syrc" typeface="Estrangelo Edessa" />
+                            <afont script="Orya" typeface="Kalinga" />
+                            <afont script="Mlym" typeface="Kartika" />
+                            <afont script="Laoo" typeface="DokChampa" />
+                            <afont script="Sinh" typeface="Iskoola Pota" />
+                            <afont script="Mong" typeface="Mongolian Baiti" />
+                            <afont script="Viet" typeface="Times New Roman" />
+                            <afont script="Uigh" typeface="Microsoft Uighur" />
+                            <afont script="Geor" typeface="Sylfaen" />
+                        </amajorFont>
+                        <aminorFont>
+                            <alatin typeface="Calibri" panose="020F0502020204030204" />
+                            <aea typeface="" />
+                            <acs typeface="" />
+                            <afont script="Jpan" typeface="ＭＳ 明朝" />
+                            <afont script="Hang" typeface="맑은 고딕" />
+                            <afont script="Hans" typeface="宋体" />
+                            <afont script="Hant" typeface="新細明體" />
+                            <afont script="Arab" typeface="Arial" />
+                            <afont script="Hebr" typeface="Arial" />
+                            <afont script="Thai" typeface="Cordia New" />
+                            <afont script="Ethi" typeface="Nyala" />
+                            <afont script="Beng" typeface="Vrinda" />
+                            <afont script="Gujr" typeface="Shruti" />
+                            <afont script="Khmr" typeface="DaunPenh" />
+                            <afont script="Knda" typeface="Tunga" />
+                            <afont script="Guru" typeface="Raavi" />
+                            <afont script="Cans" typeface="Euphemia" />
+                            <afont script="Cher" typeface="Plantagenet Cherokee" />
+                            <afont script="Yiii" typeface="Microsoft Yi Baiti" />
+                            <afont script="Tibt" typeface="Microsoft Himalaya" />
+                            <afont script="Thaa" typeface="MV Boli" />
+                            <afont script="Deva" typeface="Mangal" />
+                            <afont script="Telu" typeface="Gautami" />
+                            <afont script="Taml" typeface="Latha" />
+                            <afont script="Syrc" typeface="Estrangelo Edessa" />
+                            <afont script="Orya" typeface="Kalinga" />
+                            <afont script="Mlym" typeface="Kartika" />
+                            <afont script="Laoo" typeface="DokChampa" />
+                            <afont script="Sinh" typeface="Iskoola Pota" />
+                            <afont script="Mong" typeface="Mongolian Baiti" />
+                            <afont script="Viet" typeface="Arial" />
+                            <afont script="Uigh" typeface="Microsoft Uighur" />
+                            <afont script="Geor" typeface="Sylfaen" />
+                        </aminorFont>
+                    </afontScheme>
+                    <afmtScheme name="Office">
+                        <afillStyleLst>
+                            <asolidFill>
+                                <aschemeClr val="phClr" />
+                            </asolidFill>
+                            <agradFill rotWithShape="1">
+                                <agsLst>
+                                    <ags pos="0">
+                                        <aschemeClr val="phClr">
+                                            <alumMod val="110000" />
+                                            <asatMod val="105000" />
+                                            <atint val="67000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="50000">
+                                        <aschemeClr val="phClr">
+                                            <alumMod val="105000" />
+                                            <asatMod val="103000" />
+                                            <atint val="73000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="100000">
+                                        <aschemeClr val="phClr">
+                                            <alumMod val="105000" />
+                                            <asatMod val="109000" />
+                                            <atint val="81000" />
+                                        </aschemeClr>
+                                    </ags>
+                                </agsLst>
+                                <alin ang="5400000" scaled="0" />
+                            </agradFill>
+                            <agradFill rotWithShape="1">
+                                <agsLst>
+                                    <ags pos="0">
+                                        <aschemeClr val="phClr">
+                                            <asatMod val="103000" />
+                                            <alumMod val="102000" />
+                                            <atint val="94000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="50000">
+                                        <aschemeClr val="phClr">
+                                            <asatMod val="110000" />
+                                            <alumMod val="100000" />
+                                            <ashade val="100000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="100000">
+                                        <aschemeClr val="phClr">
+                                            <alumMod val="99000" />
+                                            <asatMod val="120000" />
+                                            <ashade val="78000" />
+                                        </aschemeClr>
+                                    </ags>
+                                </agsLst>
+                                <alin ang="5400000" scaled="0" />
+                            </agradFill>
+                        </afillStyleLst>
+                        <alnStyleLst>
+                            <aln w="6350" cap="flat" cmpd="sng" algn="ctr">
+                                <asolidFill>
+                                    <aschemeClr val="phClr" />
+                                </asolidFill>
+                                <aprstDash val="solid" />
+                                <amiter lim="800000" />
+                            </aln>
+                            <aln w="12700" cap="flat" cmpd="sng" algn="ctr">
+                                <asolidFill>
+                                    <aschemeClr val="phClr" />
+                                </asolidFill>
+                                <aprstDash val="solid" />
+                                <amiter lim="800000" />
+                            </aln>
+                            <aln w="19050" cap="flat" cmpd="sng" algn="ctr">
+                                <asolidFill>
+                                    <aschemeClr val="phClr" />
+                                </asolidFill>
+                                <aprstDash val="solid" />
+                                <amiter lim="800000" />
+                            </aln>
+                        </alnStyleLst>
+                        <aeffectStyleLst>
+                            <aeffectStyle>
+                                <aeffectLst />
+                            </aeffectStyle>
+                            <aeffectStyle>
+                                <aeffectLst />
+                            </aeffectStyle>
+                            <aeffectStyle>
+                                <aeffectLst>
+                                    <aouterShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                                        <asrgbClr val="000000">
+                                            <aalpha val="63000" />
+                                        </asrgbClr>
+                                    </aouterShdw>
+                                </aeffectLst>
+                            </aeffectStyle>
+                        </aeffectStyleLst>
+                        <abgFillStyleLst>
+                            <asolidFill>
+                                <aschemeClr val="phClr" />
+                            </asolidFill>
+                            <asolidFill>
+                                <aschemeClr val="phClr">
+                                    <atint val="95000" />
+                                    <asatMod val="170000" />
+                                </aschemeClr>
+                            </asolidFill>
+                            <agradFill rotWithShape="1">
+                                <agsLst>
+                                    <ags pos="0">
+                                        <aschemeClr val="phClr">
+                                            <atint val="93000" />
+                                            <asatMod val="150000" />
+                                            <ashade val="98000" />
+                                            <alumMod val="102000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="50000">
+                                        <aschemeClr val="phClr">
+                                            <atint val="98000" />
+                                            <asatMod val="130000" />
+                                            <ashade val="90000" />
+                                            <alumMod val="103000" />
+                                        </aschemeClr>
+                                    </ags>
+                                    <ags pos="100000">
+                                        <aschemeClr val="phClr">
+                                            <ashade val="63000" />
+                                            <asatMod val="120000" />
+                                        </aschemeClr>
+                                    </ags>
+                                </agsLst>
+                                <alin ang="5400000" scaled="0" />
+                            </agradFill>
+                        </abgFillStyleLst>
+                    </afmtScheme>
+                </athemeElements>
+                <aobjectDefaults />
+                <aextraClrSchemeLst />
+                <aextLst>
+                    <aext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}">
+                        <thm15themeFamily name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}" vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}" xmlnsthm15="http//schemas.microsoft.com/office/thememl/2012/main" />
+                    </aext>
+                </aextLst>
+            </atheme>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/settings.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml">
+        <pkgxmlData>
+            <wsettings mcIgnorable="w14 w15" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnso="urnschemas-microsoft-comofficeoffice" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsm="http//schemas.openxmlformats.org/officeDocument/2006/math" xmlnsv="urnschemas-microsoft-comvml" xmlnsw10="urnschemas-microsoft-comofficeword" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml" xmlnssl="http//schemas.openxmlformats.org/schemaLibrary/2006/main">
+                <wzoom wpercent="100" />
+                <wproofState wspelling="clean" wgrammar="clean" />
+                <wdefaultTabStop wval="720" />
+                <wcharacterSpacingControl wval="doNotCompress" />
+                <wcompat>
+                    <wcompatSetting wname="compatibilityMode" wuri="http//schemas.microsoft.com/office/word" wval="15" />
+                    <wcompatSetting wname="overrideTableStyleFontSizeAndJustification" wuri="http//schemas.microsoft.com/office/word" wval="1" />
+                    <wcompatSetting wname="enableOpenTypeFeatures" wuri="http//schemas.microsoft.com/office/word" wval="1" />
+                    <wcompatSetting wname="doNotFlipMirrorIndents" wuri="http//schemas.microsoft.com/office/word" wval="1" />
+                    <wcompatSetting wname="differentiateMultirowTableHeaders" wuri="http//schemas.microsoft.com/office/word" wval="1" />
+                </wcompat>
+                <wrsids>
+                    <wrsidRoot wval="00CA1F3D" />
+                    <wrsid wval="000F3DC4" />
+                    <wrsid wval="00170DB8" />
+                    <wrsid wval="001A036C" />
+                    <wrsid wval="001B5D9C" />
+                    <wrsid wval="0029405F" />
+                    <wrsid wval="00311A96" />
+                    <wrsid wval="00317350" />
+                    <wrsid wval="003200E1" />
+                    <wrsid wval="003A3386" />
+                    <wrsid wval="003B2CEE" />
+                    <wrsid wval="00417B33" />
+                    <wrsid wval="004240F7" />
+                    <wrsid wval="00447868" />
+                    <wrsid wval="00522CD8" />
+                    <wrsid wval="005E2B78" />
+                    <wrsid wval="005E61B6" />
+                    <wrsid wval="00607512" />
+                    <wrsid wval="00644C8A" />
+                    <wrsid wval="007A6B50" />
+                    <wrsid wval="007D709A" />
+                    <wrsid wval="007E569B" />
+                    <wrsid wval="0090475B" />
+                    <wrsid wval="009550EC" />
+                    <wrsid wval="00A56A0C" />
+                    <wrsid wval="00AF673A" />
+                    <wrsid wval="00B25FA9" />
+                    <wrsid wval="00B523F7" />
+                    <wrsid wval="00C5242C" />
+                    <wrsid wval="00CA1F3D" />
+                    <wrsid wval="00CD4DC8" />
+                    <wrsid wval="00D57565" />
+                    <wrsid wval="00D57766" />
+                    <wrsid wval="00E73476" />
+                    <wrsid wval="00F01630" />
+                    <wrsid wval="00FC701C" />
+                </wrsids>
+                <mmathPr>
+                    <mmathFont mval="Cambria Math" />
+                    <mbrkBin mval="before" />
+                    <mbrkBinSub mval="--" />
+                    <msmallFrac mval="0" />
+                    <mdispDef />
+                    <mlMargin mval="0" />
+                    <mrMargin mval="0" />
+                    <mdefJc mval="centerGroup" />
+                    <mwrapIndent mval="1440" />
+                    <mintLim mval="subSup" />
+                    <mnaryLim mval="undOvr" />
+                </mmathPr>
+                <wthemeFontLang wval="en-US" wbidi="ar-SA" />
+                <wclrSchemeMapping wbg1="light1" wt1="dark1" wbg2="light2" wt2="dark2" waccent1="accent1" waccent2="accent2" waccent3="accent3" waccent4="accent4" waccent5="accent5" waccent6="accent6" whyperlink="hyperlink" wfollowedHyperlink="followedHyperlink" />
+                <wshapeDefaults>
+                    <oshapedefaults vext="edit" spidmax="1026" />
+                    <oshapelayout vext="edit">
+                        <oidmap vext="edit" data="1" />
+                    </oshapelayout>
+                </wshapeDefaults>
+                <wdecimalSymbol wval="." />
+                <wlistSeparator wval=";" />
+                <w15chartTrackingRefBased />
+                <w15docId w15val="{31BD4225-8513-4828-8BDE-47473E02DE4E}" />
+            </wsettings>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/styles.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+        <pkgxmlData>
+            <wstyles mcIgnorable="w14 w15" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml">
+                <wdocDefaults>
+                    <wrPrDefault>
+                        <wrPr>
+                            <wrFonts wasciiTheme="minorHAnsi" weastAsiaTheme="minorHAnsi" whAnsiTheme="minorHAnsi" wcstheme="minorBidi" />
+                            <wsz wval="22" />
+                            <wszCs wval="22" />
+                            <wlang wval="en-US" weastAsia="en-US" wbidi="ar-SA" />
+                        </wrPr>
+                    </wrPrDefault>
+                    <wpPrDefault>
+                        <wpPr>
+                            <wspacing wafter="160" wline="259" wlineRule="auto" />
+                        </wpPr>
+                    </wpPrDefault>
+                </wdocDefaults>
+                <wlatentStyles wdefLockedState="0" wdefUIPriority="99" wdefSemiHidden="0" wdefUnhideWhenUsed="0" wdefQFormat="0" wcount="371">
+                    <wlsdException wname="Normal" wuiPriority="0" wqFormat="1" />
+                    <wlsdException wname="heading 1" wuiPriority="9" wqFormat="1" />
+                    <wlsdException wname="heading 2" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 3" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 4" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 5" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 6" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 7" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 8" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="heading 9" wsemiHidden="1" wuiPriority="9" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="index 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 6" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 7" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 8" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index 9" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 1" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 2" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 3" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 4" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 5" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 6" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 7" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 8" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="toc 9" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" />
+                    <wlsdException wname="Normal Indent" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="footnote text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="annotation text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="header" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="footer" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="index heading" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="caption" wsemiHidden="1" wuiPriority="35" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="table of figures" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="envelope address" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="envelope return" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="footnote reference" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="annotation reference" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="line number" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="page number" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="endnote reference" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="endnote text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="table of authorities" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="macro" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="toa heading" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Bullet" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Number" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Bullet 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Bullet 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Bullet 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Bullet 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Number 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Number 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Number 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Number 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Title" wuiPriority="10" wqFormat="1" />
+                    <wlsdException wname="Closing" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Signature" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Default Paragraph Font" wsemiHidden="1" wuiPriority="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text Indent" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Continue" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Continue 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Continue 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Continue 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="List Continue 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Message Header" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Subtitle" wuiPriority="11" wqFormat="1" />
+                    <wlsdException wname="Salutation" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Date" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text First Indent" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text First Indent 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Note Heading" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text Indent 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Body Text Indent 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Block Text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Hyperlink" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="FollowedHyperlink" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Strong" wuiPriority="22" wqFormat="1" />
+                    <wlsdException wname="Emphasis" wuiPriority="20" wqFormat="1" />
+                    <wlsdException wname="Document Map" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Plain Text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="E-mail Signature" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Top of Form" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Bottom of Form" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Normal (Web)" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Acronym" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Address" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Cite" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Code" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Definition" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Keyboard" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Preformatted" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Sample" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Typewriter" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="HTML Variable" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Normal Table" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="annotation subject" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="No List" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Outline List 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Outline List 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Outline List 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Simple 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Simple 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Simple 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Classic 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Classic 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Classic 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Classic 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Colorful 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Colorful 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Colorful 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Columns 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Columns 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Columns 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Columns 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Columns 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 6" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 7" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid 8" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 4" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 5" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 6" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 7" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table List 8" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table 3D effects 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table 3D effects 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table 3D effects 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Contemporary" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Elegant" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Professional" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Subtle 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Subtle 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Web 1" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Web 2" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Web 3" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Balloon Text" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Table Grid" wuiPriority="39" />
+                    <wlsdException wname="Table Theme" wsemiHidden="1" wunhideWhenUsed="1" />
+                    <wlsdException wname="Placeholder Text" wsemiHidden="1" />
+                    <wlsdException wname="No Spacing" wuiPriority="1" wqFormat="1" />
+                    <wlsdException wname="Light Shading" wuiPriority="60" />
+                    <wlsdException wname="Light List" wuiPriority="61" />
+                    <wlsdException wname="Light Grid" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3" wuiPriority="69" />
+                    <wlsdException wname="Dark List" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading" wuiPriority="71" />
+                    <wlsdException wname="Colorful List" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 1" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 1" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 1" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 1" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 1" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 1" wuiPriority="65" />
+                    <wlsdException wname="Revision" wsemiHidden="1" />
+                    <wlsdException wname="List Paragraph" wuiPriority="34" wqFormat="1" />
+                    <wlsdException wname="Quote" wuiPriority="29" wqFormat="1" />
+                    <wlsdException wname="Intense Quote" wuiPriority="30" wqFormat="1" />
+                    <wlsdException wname="Medium List 2 Accent 1" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 1" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 1" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 1" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 1" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 1" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 1" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 1" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 2" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 2" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 2" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 2" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 2" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 2" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2 Accent 2" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 2" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 2" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 2" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 2" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 2" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 2" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 2" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 3" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 3" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 3" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 3" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 3" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 3" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2 Accent 3" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 3" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 3" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 3" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 3" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 3" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 3" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 3" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 4" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 4" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 4" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 4" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 4" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 4" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2 Accent 4" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 4" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 4" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 4" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 4" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 4" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 4" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 4" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 5" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 5" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 5" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 5" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 5" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 5" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2 Accent 5" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 5" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 5" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 5" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 5" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 5" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 5" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 5" wuiPriority="73" />
+                    <wlsdException wname="Light Shading Accent 6" wuiPriority="60" />
+                    <wlsdException wname="Light List Accent 6" wuiPriority="61" />
+                    <wlsdException wname="Light Grid Accent 6" wuiPriority="62" />
+                    <wlsdException wname="Medium Shading 1 Accent 6" wuiPriority="63" />
+                    <wlsdException wname="Medium Shading 2 Accent 6" wuiPriority="64" />
+                    <wlsdException wname="Medium List 1 Accent 6" wuiPriority="65" />
+                    <wlsdException wname="Medium List 2 Accent 6" wuiPriority="66" />
+                    <wlsdException wname="Medium Grid 1 Accent 6" wuiPriority="67" />
+                    <wlsdException wname="Medium Grid 2 Accent 6" wuiPriority="68" />
+                    <wlsdException wname="Medium Grid 3 Accent 6" wuiPriority="69" />
+                    <wlsdException wname="Dark List Accent 6" wuiPriority="70" />
+                    <wlsdException wname="Colorful Shading Accent 6" wuiPriority="71" />
+                    <wlsdException wname="Colorful List Accent 6" wuiPriority="72" />
+                    <wlsdException wname="Colorful Grid Accent 6" wuiPriority="73" />
+                    <wlsdException wname="Subtle Emphasis" wuiPriority="19" wqFormat="1" />
+                    <wlsdException wname="Intense Emphasis" wuiPriority="21" wqFormat="1" />
+                    <wlsdException wname="Subtle Reference" wuiPriority="31" wqFormat="1" />
+                    <wlsdException wname="Intense Reference" wuiPriority="32" wqFormat="1" />
+                    <wlsdException wname="Book Title" wuiPriority="33" wqFormat="1" />
+                    <wlsdException wname="Bibliography" wsemiHidden="1" wuiPriority="37" wunhideWhenUsed="1" />
+                    <wlsdException wname="TOC Heading" wsemiHidden="1" wuiPriority="39" wunhideWhenUsed="1" wqFormat="1" />
+                    <wlsdException wname="Plain Table 1" wuiPriority="41" />
+                    <wlsdException wname="Plain Table 2" wuiPriority="42" />
+                    <wlsdException wname="Plain Table 3" wuiPriority="43" />
+                    <wlsdException wname="Plain Table 4" wuiPriority="44" />
+                    <wlsdException wname="Plain Table 5" wuiPriority="45" />
+                    <wlsdException wname="Grid Table Light" wuiPriority="40" />
+                    <wlsdException wname="Grid Table 1 Light" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 1" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 1" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 1" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 1" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 1" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 1" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 1" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 2" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 2" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 2" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 2" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 2" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 2" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 2" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 3" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 3" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 3" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 3" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 3" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 3" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 3" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 4" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 4" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 4" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 4" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 4" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 4" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 4" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 5" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 5" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 5" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 5" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 5" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 5" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 5" wuiPriority="52" />
+                    <wlsdException wname="Grid Table 1 Light Accent 6" wuiPriority="46" />
+                    <wlsdException wname="Grid Table 2 Accent 6" wuiPriority="47" />
+                    <wlsdException wname="Grid Table 3 Accent 6" wuiPriority="48" />
+                    <wlsdException wname="Grid Table 4 Accent 6" wuiPriority="49" />
+                    <wlsdException wname="Grid Table 5 Dark Accent 6" wuiPriority="50" />
+                    <wlsdException wname="Grid Table 6 Colorful Accent 6" wuiPriority="51" />
+                    <wlsdException wname="Grid Table 7 Colorful Accent 6" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light" wuiPriority="46" />
+                    <wlsdException wname="List Table 2" wuiPriority="47" />
+                    <wlsdException wname="List Table 3" wuiPriority="48" />
+                    <wlsdException wname="List Table 4" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 1" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 1" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 1" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 1" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 1" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 1" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 1" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 2" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 2" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 2" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 2" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 2" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 2" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 2" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 3" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 3" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 3" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 3" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 3" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 3" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 3" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 4" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 4" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 4" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 4" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 4" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 4" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 4" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 5" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 5" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 5" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 5" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 5" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 5" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 5" wuiPriority="52" />
+                    <wlsdException wname="List Table 1 Light Accent 6" wuiPriority="46" />
+                    <wlsdException wname="List Table 2 Accent 6" wuiPriority="47" />
+                    <wlsdException wname="List Table 3 Accent 6" wuiPriority="48" />
+                    <wlsdException wname="List Table 4 Accent 6" wuiPriority="49" />
+                    <wlsdException wname="List Table 5 Dark Accent 6" wuiPriority="50" />
+                    <wlsdException wname="List Table 6 Colorful Accent 6" wuiPriority="51" />
+                    <wlsdException wname="List Table 7 Colorful Accent 6" wuiPriority="52" />
+                </wlatentStyles>
+                <wstyle wtype="paragraph" wdefault="1" wstyleId="Normal">
+                    <wname wval="Normal" />
+                    <wqFormat />
+                    <wrsid wval="00447868" />
+                    <wpPr>
+                        <wbidi />
+                        <wspacing wline="256" wlineRule="auto" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wascii="Calibri" weastAsia="Calibri" whAnsi="Calibri" wcs="Arial" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Heading1">
+                    <wname wval="heading 1" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="Heading1Char" />
+                    <wuiPriority wval="9" />
+                    <wqFormat />
+                    <wrsid wval="007E569B" />
+                    <wpPr>
+                        <wkeepNext />
+                        <wkeepLines />
+                        <wspacing wbefore="240" wafter="0" />
+                        <woutlineLvl wval="0" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                        <wsz wval="32" />
+                        <wszCs wval="32" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Heading2">
+                    <wname wval="heading 2" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="Heading2Char" />
+                    <wuiPriority wval="9" />
+                    <wunhideWhenUsed />
+                    <wqFormat />
+                    <wrsid wval="007E569B" />
+                    <wpPr>
+                        <wkeepNext />
+                        <wkeepLines />
+                        <wspacing wbefore="40" wafter="0" />
+                        <woutlineLvl wval="1" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                        <wsz wval="26" />
+                        <wszCs wval="26" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Heading3">
+                    <wname wval="heading 3" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="Heading3Char" />
+                    <wuiPriority wval="9" />
+                    <wunhideWhenUsed />
+                    <wqFormat />
+                    <wrsid wval="00522CD8" />
+                    <wpPr>
+                        <wkeepNext />
+                        <wkeepLines />
+                        <wspacing wbefore="40" wafter="0" />
+                        <woutlineLvl wval="2" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="1F4D78" wthemeColor="accent1" wthemeShade="7F" />
+                        <wsz wval="24" />
+                        <wszCs wval="24" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Heading4">
+                    <wname wval="heading 4" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="Heading4Char" />
+                    <wuiPriority wval="9" />
+                    <wunhideWhenUsed />
+                    <wqFormat />
+                    <wrsid wval="005E2B78" />
+                    <wpPr>
+                        <wkeepNext />
+                        <wkeepLines />
+                        <wspacing wbefore="40" wafter="0" />
+                        <woutlineLvl wval="3" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wi />
+                        <wiCs />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Heading5">
+                    <wname wval="heading 5" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="Heading5Char" />
+                    <wuiPriority wval="9" />
+                    <wunhideWhenUsed />
+                    <wqFormat />
+                    <wrsid wval="0090475B" />
+                    <wpPr>
+                        <wkeepNext />
+                        <wkeepLines />
+                        <wspacing wbefore="40" wafter="0" />
+                        <woutlineLvl wval="4" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wdefault="1" wstyleId="DefaultParagraphFont">
+                    <wname wval="Default Paragraph Font" />
+                    <wuiPriority wval="1" />
+                    <wsemiHidden />
+                    <wunhideWhenUsed />
+                </wstyle>
+                <wstyle wtype="table" wdefault="1" wstyleId="TableNormal">
+                    <wname wval="Normal Table" />
+                    <wuiPriority wval="99" />
+                    <wsemiHidden />
+                    <wunhideWhenUsed />
+                    <wtblPr>
+                        <wtblInd ww="0" wtype="dxa" />
+                        <wtblCellMar>
+                            <wtop ww="0" wtype="dxa" />
+                            <wleft ww="108" wtype="dxa" />
+                            <wbottom ww="0" wtype="dxa" />
+                            <wright ww="108" wtype="dxa" />
+                        </wtblCellMar>
+                    </wtblPr>
+                </wstyle>
+                <wstyle wtype="numbering" wdefault="1" wstyleId="NoList">
+                    <wname wval="No List" />
+                    <wuiPriority wval="99" />
+                    <wsemiHidden />
+                    <wunhideWhenUsed />
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="ListParagraph">
+                    <wname wval="List Paragraph" />
+                    <wbasedOn wval="Normal" />
+                    <wuiPriority wval="34" />
+                    <wqFormat />
+                    <wrsid wval="00447868" />
+                    <wpPr>
+                        <wind wleft="720" />
+                        <wcontextualSpacing />
+                    </wpPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="Heading1Char">
+                    <wname wval="Heading 1 Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Heading1" />
+                    <wuiPriority wval="9" />
+                    <wrsid wval="007E569B" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                        <wsz wval="32" />
+                        <wszCs wval="32" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="Heading2Char">
+                    <wname wval="Heading 2 Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Heading2" />
+                    <wuiPriority wval="9" />
+                    <wrsid wval="007E569B" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                        <wsz wval="26" />
+                        <wszCs wval="26" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Quote">
+                    <wname wval="Quote" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="QuoteChar" />
+                    <wuiPriority wval="29" />
+                    <wqFormat />
+                    <wrsid wval="007E569B" />
+                    <wpPr>
+                        <wspacing wbefore="200" />
+                        <wind wleft="864" wright="864" />
+                        <wjc wval="center" />
+                    </wpPr>
+                    <wrPr>
+                        <wi />
+                        <wiCs />
+                        <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="QuoteChar">
+                    <wname wval="Quote Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Quote" />
+                    <wuiPriority wval="29" />
+                    <wrsid wval="007E569B" />
+                    <wrPr>
+                        <wrFonts wascii="Calibri" weastAsia="Calibri" whAnsi="Calibri" wcs="Arial" />
+                        <wi />
+                        <wiCs />
+                        <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wstyleId="BookTitle">
+                    <wname wval="Book Title" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wuiPriority wval="33" />
+                    <wqFormat />
+                    <wrsid wval="007E569B" />
+                    <wrPr>
+                        <wb />
+                        <wbCs />
+                        <wi />
+                        <wiCs />
+                        <wspacing wval="5" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wstyleId="Strong">
+                    <wname wval="Strong" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wuiPriority wval="22" />
+                    <wqFormat />
+                    <wrsid wval="00644C8A" />
+                    <wrPr>
+                        <wb />
+                        <wbCs />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Title">
+                    <wname wval="Title" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="TitleChar" />
+                    <wuiPriority wval="10" />
+                    <wqFormat />
+                    <wrsid wval="00417B33" />
+                    <wpPr>
+                        <wspacing wafter="0" wline="240" wlineRule="auto" />
+                        <wcontextualSpacing />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wspacing wval="-10" />
+                        <wkern wval="28" />
+                        <wsz wval="56" />
+                        <wszCs wval="56" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="TitleChar">
+                    <wname wval="Title Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Title" />
+                    <wuiPriority wval="10" />
+                    <wrsid wval="00417B33" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wspacing wval="-10" />
+                        <wkern wval="28" />
+                        <wsz wval="56" />
+                        <wszCs wval="56" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wcustomStyle="1" wstyleId="matn">
+                    <wname wval="matn" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="matnChar" />
+                    <wqFormat />
+                    <wrsid wval="00317350" />
+                    <wpPr>
+                        <wwidowControl wval="0" />
+                        <wtabs>
+                            <wtab wval="left" wpos="67" />
+                            <wtab wval="left" wleader="dot" wpos="5954" />
+                        </wtabs>
+                        <wspacing wafter="0" wline="240" wlineRule="auto" />
+                        <wind wfirstLine="720" />
+                        <wjc wval="lowKashida" />
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wascii="Traditional Arabic" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                        <wsz wval="36" />
+                        <wszCs wval="36" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="matnChar">
+                    <wname wval="matn Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="matn" />
+                    <wrsid wval="00522CD8" />
+                    <wrPr>
+                        <wrFonts wascii="Traditional Arabic" weastAsia="Calibri" whAnsi="Traditional Arabic" wcs="Traditional Arabic" />
+                        <wsz wval="36" />
+                        <wszCs wval="36" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="Heading3Char">
+                    <wname wval="Heading 3 Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Heading3" />
+                    <wuiPriority wval="9" />
+                    <wrsid wval="00522CD8" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="1F4D78" wthemeColor="accent1" wthemeShade="7F" />
+                        <wsz wval="24" />
+                        <wszCs wval="24" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="TOC1">
+                    <wname wval="toc 1" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wautoRedefine />
+                    <wuiPriority wval="39" />
+                    <wsemiHidden />
+                    <wunhideWhenUsed />
+                    <wrsid wval="005E61B6" />
+                    <wpPr>
+                        <wspacing wafter="100" />
+                    </wpPr>
+                </wstyle>
+                <wstyle wtype="paragraph" wstyleId="Subtitle">
+                    <wname wval="Subtitle" />
+                    <wbasedOn wval="Normal" />
+                    <wnext wval="Normal" />
+                    <wlink wval="SubtitleChar" />
+                    <wuiPriority wval="11" />
+                    <wqFormat />
+                    <wrsid wval="00170DB8" />
+                    <wpPr>
+                        <wnumPr>
+                            <wilvl wval="1" />
+                        </wnumPr>
+                    </wpPr>
+                    <wrPr>
+                        <wrFonts wasciiTheme="minorHAnsi" weastAsiaTheme="minorEastAsia" whAnsiTheme="minorHAnsi" wcstheme="minorBidi" />
+                        <wcolor wval="5A5A5A" wthemeColor="text1" wthemeTint="A5" />
+                        <wspacing wval="15" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="SubtitleChar">
+                    <wname wval="Subtitle Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Subtitle" />
+                    <wuiPriority wval="11" />
+                    <wrsid wval="00170DB8" />
+                    <wrPr>
+                        <wrFonts weastAsiaTheme="minorEastAsia" />
+                        <wcolor wval="5A5A5A" wthemeColor="text1" wthemeTint="A5" />
+                        <wspacing wval="15" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="Heading4Char">
+                    <wname wval="Heading 4 Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Heading4" />
+                    <wuiPriority wval="9" />
+                    <wrsid wval="005E2B78" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wi />
+                        <wiCs />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wcustomStyle="1" wstyleId="Heading5Char">
+                    <wname wval="Heading 5 Char" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wlink wval="Heading5" />
+                    <wuiPriority wval="9" />
+                    <wrsid wval="0090475B" />
+                    <wrPr>
+                        <wrFonts wasciiTheme="majorHAnsi" weastAsiaTheme="majorEastAsia" whAnsiTheme="majorHAnsi" wcstheme="majorBidi" />
+                        <wcolor wval="2E74B5" wthemeColor="accent1" wthemeShade="BF" />
+                    </wrPr>
+                </wstyle>
+                <wstyle wtype="character" wstyleId="Emphasis">
+                    <wname wval="Emphasis" />
+                    <wbasedOn wval="DefaultParagraphFont" />
+                    <wuiPriority wval="20" />
+                    <wqFormat />
+                    <wrsid wval="00D57766" />
+                    <wrPr>
+                        <wi />
+                        <wiCs />
+                    </wrPr>
+                </wstyle>
+            </wstyles>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/customXml/_rels/item1.xml.rels" pkgcontentType="application/vnd.openxmlformats-package.relationships+xml" pkgpadding="256">
+        <pkgxmlData>
+            <Relationships  >
+                <Relationship Id="rId1" Type="http//schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps" Target="itemProps1.xml" />
+            </Relationships>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/numbering.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml">
+        <pkgxmlData>
+            <wnumbering mcIgnorable="w14 w15 wp14" xmlnswpc="http//schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnso="urnschemas-microsoft-comofficeoffice" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsm="http//schemas.openxmlformats.org/officeDocument/2006/math" xmlnsv="urnschemas-microsoft-comvml" xmlnswp14="http//schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlnswp="http//schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlnsw10="urnschemas-microsoft-comofficeword" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml" xmlnswpg="http//schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlnswpi="http//schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlnswne="http//schemas.microsoft.com/office/word/2006/wordml" xmlnswps="http//schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <wabstractNum wabstractNumId="0" w15restartNumberingAfterBreak="0">
+                    <wnsid wval="0C8C04AA" />
+                    <wmultiLevelType wval="hybridMultilevel" />
+                    <wtmpl wval="EAEAC86C" />
+                    <wlvl wilvl="0" wtplc="7744EBF2">
+                        <wstart wval="1" />
+                        <wnumFmt wval="arabicAlpha" />
+                        <wlvlText wval="%1-" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="1440" whanging="720" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="1" wtplc="04090019" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerLetter" />
+                        <wlvlText wval="%2." />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="1800" whanging="360" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="2" wtplc="0409001B" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerRoman" />
+                        <wlvlText wval="%3." />
+                        <wlvlJc wval="right" />
+                        <wpPr>
+                            <wind wleft="2520" whanging="180" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="3" wtplc="0409000F" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="decimal" />
+                        <wlvlText wval="%4." />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="3240" whanging="360" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="4" wtplc="04090019" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerLetter" />
+                        <wlvlText wval="%5." />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="3960" whanging="360" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="5" wtplc="0409001B" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerRoman" />
+                        <wlvlText wval="%6." />
+                        <wlvlJc wval="right" />
+                        <wpPr>
+                            <wind wleft="4680" whanging="180" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="6" wtplc="0409000F" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="decimal" />
+                        <wlvlText wval="%7." />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="5400" whanging="360" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="7" wtplc="04090019" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerLetter" />
+                        <wlvlText wval="%8." />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="6120" whanging="360" />
+                        </wpPr>
+                    </wlvl>
+                    <wlvl wilvl="8" wtplc="0409001B" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="lowerRoman" />
+                        <wlvlText wval="%9." />
+                        <wlvlJc wval="right" />
+                        <wpPr>
+                            <wind wleft="6840" whanging="180" />
+                        </wpPr>
+                    </wlvl>
+                </wabstractNum>
+                <wabstractNum wabstractNumId="1" w15restartNumberingAfterBreak="0">
+                    <wnsid wval="109C52C2" />
+                    <wmultiLevelType wval="hybridMultilevel" />
+                    <wtmpl wval="4E6A878C" />
+                    <wlvl wilvl="0" wtplc="04090001">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="720" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="1" wtplc="04090003">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="1440" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="2" wtplc="04090005">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="2160" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="3" wtplc="04090001">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="2880" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="4" wtplc="04090003">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="3600" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="5" wtplc="04090005">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="4320" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="6" wtplc="04090001">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="5040" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="7" wtplc="04090003">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="5760" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="8" wtplc="04090005">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="6480" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                </wabstractNum>
+                <wabstractNum wabstractNumId="2" w15restartNumberingAfterBreak="0">
+                    <wnsid wval="60F032A4" />
+                    <wmultiLevelType wval="hybridMultilevel" />
+                    <wtmpl wval="01044FC2" />
+                    <wlvl wilvl="0" wtplc="04090001">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="1440" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="1" wtplc="04090003" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="2160" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="2" wtplc="04090005" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="2880" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="3" wtplc="04090001" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="3600" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="4" wtplc="04090003" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="4320" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="5" wtplc="04090005" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="5040" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="6" wtplc="04090001" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="5760" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Symbol" whAnsi="Symbol" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="7" wtplc="04090003" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="o" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="6480" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Courier New" whAnsi="Courier New" wcs="Courier New" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                    <wlvl wilvl="8" wtplc="04090005" wtentative="1">
+                        <wstart wval="1" />
+                        <wnumFmt wval="bullet" />
+                        <wlvlText wval="" />
+                        <wlvlJc wval="left" />
+                        <wpPr>
+                            <wind wleft="7200" whanging="360" />
+                        </wpPr>
+                        <wrPr>
+                            <wrFonts wascii="Wingdings" whAnsi="Wingdings" whint="default" />
+                        </wrPr>
+                    </wlvl>
+                </wabstractNum>
+                <wnum wnumId="1">
+                    <wabstractNumId wval="1" />
+                </wnum>
+                <wnum wnumId="2">
+                    <wabstractNumId wval="2" />
+                </wnum>
+                <wnum wnumId="3">
+                    <wabstractNumId wval="0" />
+                </wnum>
+            </wnumbering>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/customXml/itemProps1.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.customXmlProperties+xml" pkgpadding="32">
+        <pkgxmlData pkgoriginalXmlStandalone="no">
+            <dsdatastoreItem dsitemID="{B03BDDF8-C7A2-4F08-8902-0DFE5EB69B19}" xmlnsds="http//schemas.openxmlformats.org/officeDocument/2006/customXml">
+                <dsschemaRefs>
+                    <dsschemaRef dsuri="http//schemas.openxmlformats.org/officeDocument/2006/bibliography" />
+                </dsschemaRefs>
+            </dsdatastoreItem>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/docProps/core.xml" pkgcontentType="application/vnd.openxmlformats-package.core-properties+xml" pkgpadding="256">
+        <pkgxmlData>
+            <cpcoreProperties xmlnscp="http//schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlnsdc="http//purl.org/dc/elements/1.1/" xmlnsdcterms="http//purl.org/dc/terms/" xmlnsdcmitype="http//purl.org/dc/dcmitype/" xmlnsxsi="http//www.w3.org/2001/XMLSchema-instance">
+                <dctitle />
+                <dcsubject />
+                <dccreator>Rabi3</dccreator>
+                <cpkeywords />
+                <dcdescription />
+                <cplastModifiedBy>Rabi3</cplastModifiedBy>
+                <cprevision>2</cprevision>
+                <dctermscreated xsitype="dctermsW3CDTF">2021-08-25T104500Z</dctermscreated>
+                <dctermsmodified xsitype="dctermsW3CDTF">2021-08-25T104500Z</dctermsmodified>
+            </cpcoreProperties>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/customXml/item1.xml" pkgcontentType="application/xml" pkgpadding="32">
+        <pkgxmlData>
+            <bSources SelectedStyle="\APASixthEditionOfficeOnline.xsl" StyleName="APA" Version="6" xmlnsb="http//schemas.openxmlformats.org/officeDocument/2006/bibliography"   />
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/fontTable.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml">
+        <pkgxmlData>
+            <wfonts mcIgnorable="w14 w15" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml">
+                <wfont wname="Times New Roman">
+                    <wpanose1 wval="02020603050405020304" />
+                    <wcharset wval="00" />
+                    <wfamily wval="roman" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="E0002EFF" wusb1="C000785B" wusb2="00000009" wusb3="00000000" wcsb0="000001FF" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Symbol">
+                    <wpanose1 wval="05050102010706020507" />
+                    <wcharset wval="02" />
+                    <wfamily wval="roman" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="00000000" wusb1="10000000" wusb2="00000000" wusb3="00000000" wcsb0="80000000" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Courier New">
+                    <wpanose1 wval="02070309020205020404" />
+                    <wcharset wval="00" />
+                    <wfamily wval="modern" />
+                    <wpitch wval="fixed" />
+                    <wsig wusb0="E0002EFF" wusb1="C0007843" wusb2="00000009" wusb3="00000000" wcsb0="000001FF" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Wingdings">
+                    <wpanose1 wval="05000000000000000000" />
+                    <wcharset wval="02" />
+                    <wfamily wval="auto" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="00000000" wusb1="10000000" wusb2="00000000" wusb3="00000000" wcsb0="80000000" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Calibri">
+                    <wpanose1 wval="020F0502020204030204" />
+                    <wcharset wval="00" />
+                    <wfamily wval="swiss" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="E4002EFF" wusb1="C000247B" wusb2="00000009" wusb3="00000000" wcsb0="000001FF" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Arial">
+                    <wpanose1 wval="020B0604020202020204" />
+                    <wcharset wval="00" />
+                    <wfamily wval="swiss" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="E0002EFF" wusb1="C000785B" wusb2="00000009" wusb3="00000000" wcsb0="000001FF" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Calibri Light">
+                    <wpanose1 wval="020F0302020204030204" />
+                    <wcharset wval="00" />
+                    <wfamily wval="swiss" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="E4002EFF" wusb1="C000247B" wusb2="00000009" wusb3="00000000" wcsb0="000001FF" wcsb1="00000000" />
+                </wfont>
+                <wfont wname="Traditional Arabic">
+                    <wpanose1 wval="02020603050405020304" />
+                    <wcharset wval="00" />
+                    <wfamily wval="roman" />
+                    <wpitch wval="variable" />
+                    <wsig wusb0="00002003" wusb1="80000000" wusb2="00000008" wusb3="00000000" wcsb0="00000041" wcsb1="00000000" />
+                </wfont>
+            </wfonts>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/word/webSettings.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml">
+        <pkgxmlData>
+            <wwebSettings mcIgnorable="w14 w15" xmlnsmc="http//schemas.openxmlformats.org/markup-compatibility/2006" xmlnsr="http//schemas.openxmlformats.org/officeDocument/2006/relationships" xmlnsw="http//schemas.openxmlformats.org/wordprocessingml/2006/main" xmlnsw14="http//schemas.microsoft.com/office/word/2010/wordml" xmlnsw15="http//schemas.microsoft.com/office/word/2012/wordml">
+                <wdivs>
+                    <wdiv wid="1004478637">
+                        <wbodyDiv wval="1" />
+                        <wmarLeft wval="0" />
+                        <wmarRight wval="0" />
+                        <wmarTop wval="0" />
+                        <wmarBottom wval="0" />
+                        <wdivBdr>
+                            <wtop wval="none" wsz="0" wspace="0" wcolor="auto" />
+                            <wleft wval="none" wsz="0" wspace="0" wcolor="auto" />
+                            <wbottom wval="none" wsz="0" wspace="0" wcolor="auto" />
+                            <wright wval="none" wsz="0" wspace="0" wcolor="auto" />
+                        </wdivBdr>
+                    </wdiv>
+                </wdivs>
+                <woptimizeForBrowser />
+                <wrelyOnVML />
+                <wallowPNG />
+            </wwebSettings>
+        </pkgxmlData>
+    </pkgpart>
+    <pkgpart pkgname="/docProps/app.xml" pkgcontentType="application/vnd.openxmlformats-officedocument.extended-properties+xml" pkgpadding="256">
+        <pkgxmlData>
+            <Properties  >
+                <Template>Normal.dotm</Template>
+                <TotalTime>1</TotalTime>
+                <Pages>2</Pages>
+                <Words>238</Words>
+                <Characters>1362</Characters>
+                <Application>Microsoft Office Word</Application>
+                <DocSecurity>0</DocSecurity>
+                <Lines>11</Lines>
+                <Paragraphs>3</Paragraphs>
+                <ScaleCrop>false</ScaleCrop>
+                <HeadingPairs>
+                    <vtvector size="2" baseType="variant">
+                        <vtvariant>
+                            <vtlpstr>Title</vtlpstr>
+                        </vtvariant>
+                        <vtvariant>
+                            <vti4>1</vti4>
+                        </vtvariant>
+                    </vtvector>
+                </HeadingPairs>
+                <TitlesOfParts>
+                    <vtvector size="1" baseType="lpstr">
+                        <vtlpstr />
+                    </vtvector>
+                </TitlesOfParts>
+                <Company />
+                <LinksUpToDate>false</LinksUpToDate>
+                <CharactersWithSpaces>1597</CharactersWithSpaces>
+                <SharedDoc>false</SharedDoc>
+                <HyperlinksChanged>false</HyperlinksChanged>
+                <AppVersion>15.0000</AppVersion>
+            </Properties>
+        </pkgxmlData>
+    </pkgpart>
+</pkgpackage>
